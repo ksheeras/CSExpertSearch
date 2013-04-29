@@ -1,0 +1,51 @@
+Computer Science Expert Finder from Web:
+
+Research concept search started...
+
+Research concept string:
+information retrieval
+
+Research concept search results:
+
+Person Name	Weighted Relevancy score for concept queries
+Morten Johnsen	2.120102773882352
+Dr. Kunal Verma	2.120102773882352
+Maslow	2.120102773882352
+Kevin C. Chang	1.5509417298509827
+Ouri Wolfson	1.1611763690901935
+Meghana Viswanath	0.9764878424156874
+Lewis	0.876179451043138
+Prof. Miller	0.876179451043138
+Bruce Schatz	0.8653311060392149
+Thur	0.8514665824549033
+Reymonrod Vasquez	0.7504246964784302
+Ismailcem Budak	0.7010970388549028
+Doshi P.	0.6697920592156866
+Kunal Verma	0.5868801063843142
+Alex Kass	0.5868801063843142
+AI	0.5225228577411756
+Wang Win	0.516844299294117
+Olgica Milenkovic	0.4590760823529412
+Thomas Anastasio	0.4590760823529412
+Palo Atlo	0.45458757739607836
+Cuebee	0.4279509860549009
+Bryan Heidorn	0.32791150666666685
+Marianne Winslett	0.32791150666666685
+Amit Sheth	0.29181829176470525
+Jeff Heer	0.24767067209411803
+Sayan Mitra	0.23685129411764708
+Constantine Polychronopoulos	0.23685129411764708
+CSCI(PHIL	0.2264455294117647
+David Lowenthal	0.20934894117647057
+S. M. Bhandarkar	0.20934894117647057
+R.W. Robinson	0.20934894117647057
+Dr. J. Arnold	0.20934894117647057
+M. McEachern	0.20934894117647057
+Frank	0.20934894117647057
+Andrew Paterson	0.20934894117647057
+Eileen Kraemer	0.1132913896862743
+Paul	0.1074717143529412
+Prashant Doshi	0.04058038629803913
+Dr. Prashant Doshi	0.010973998666666663
+
+Research concept search completed.
