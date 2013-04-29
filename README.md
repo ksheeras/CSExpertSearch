@@ -1,4 +1,0 @@
-CSExpertSearch
-==============
-
-CS Expert Search
