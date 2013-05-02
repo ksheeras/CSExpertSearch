@@ -1,3 +1,8 @@
+/**
+ * The Class Result_Scorer.
+ * Methods to rank authors for the concept or term
+ */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -10,6 +15,13 @@ import java.util.Map.Entry;
 
 public class Result_Scorer {
 
+	/**
+	 * Score_by_linear_decreasing_weighting.
+	 *
+	 * @param relevancy_map_list - The relevancy_map_list generated from concept/term queries
+	 * @param factor - Indicates a factor for linear weight decrement
+	 * @return Final merged relevancy map with decreasing scores
+	 */
 	public static Map<String, Double> score_by_linear_decreasing_weighting(ArrayList<Map<String, String>> relevancy_map_list,int factor){
 
 		Map<String,Double> weighted_result_map = new HashMap<String, Double>();

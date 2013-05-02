@@ -5,14 +5,31 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
+/**
+ * The Class File_Utility.
+ * Contains file utility methods
+ */
+
 public class File_Utility {
 
+	/**
+	 * Gets the file list in directory
+	 *
+	 * @param directory_path - The directory path
+	 * @return the file list in directory
+	 */
 	public static File[] get_file_list_in_dir(String directory_path){
 		File directory = new File(directory_path);  
 		File[] files = directory.listFiles();
 		return files;
 	}
 
+	/**
+	 * Puts string to file
+	 *
+	 * @param str - string to put
+	 * @param file_path - The file path
+	 */
 	public static void string_to_file(String str, String file_path){
 		try {
 			File newTextFile = new File(file_path);
@@ -25,6 +42,13 @@ public class File_Utility {
 		}
 	}
 
+	/**
+	 * Loads string from file
+	 *
+	 * @param file - The file to load
+	 * @return the string
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	public static String load_string_from_file(File file) throws IOException{
 		BufferedReader reader = new BufferedReader( new FileReader (file));
 		String         line = null;
@@ -38,6 +62,14 @@ public class File_Utility {
 		return stringBuilder.toString();
 	}
 
+	/**
+	 * Gets the field list from tabular_data.
+	 *
+	 * @param file - the file
+	 * @param field_number - the field number
+	 * @return the _field_list_from_tabular_data
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	public static String[] get_field_list_from_tabular_data(File file, int field_number) throws IOException
 	{
 		String[] field_values = new String[CS_Expert_Search.MAX_CONCEPT_QUERIES];

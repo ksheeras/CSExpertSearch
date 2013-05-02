@@ -8,48 +8,88 @@ import java.util.Properties;
 
 import org.apache.solr.client.solrj.SolrServerException;
 
+/**
+ * The Class CS_Expert_Search
+ * Main program for expert search
+ */
 public class CS_Expert_Search {
 	// Function Constants 
 	// Index types - Mulicore Solr enabled
+	/** The Constant INDEX_PEOPLE. */
 	public static final int INDEX_PEOPLE = 1;
+
+	/** The Constant INDEX_CONCEPTS. */
 	public static final int INDEX_CONCEPTS = 2;
+
+	/** The Constant INDEX_ALL. */
 	public static final int INDEX_ALL = 3;
 	// Search functions
+	/** The Constant RESEARCH_CONCEPT_SEARCH. */
 	public static final int RESEARCH_CONCEPT_SEARCH = 4;
+
+	/** The Constant RESEARCH_TERMS_SEARCH. */
 	public static final int RESEARCH_TERMS_SEARCH = 5;
 
 	// Maximum number of concept queries generated
+	/** The max concept queries. */
 	public static int MAX_CONCEPT_QUERIES = 50;
 	/* If indexing, location of documents path. Each document is a person profile
 	   extracted from web using focused on selected domains */
+	/** The solr_people_documents_path. */
 	public static String solr_people_documents_path;
 	/* Research Concept files location - Research concept files contain top K terms
 	   along with weights for each research concept. eg. Data Mining */
+	/** The solr_concepts_documents_path. */
 	public static String solr_concepts_documents_path;
 	/* Solr server home path */
+	/** The solr url. */
 	public static String SOLR_URL;
 
 	// Function: Search or index ?
+	/** The function_type. */
 	public int function_type;
 	/* If searching, search string - Concept or terms*/
+	/** The search_string. */
 	public String search_string;
 	/* Result String */
+	/** The result_string. */
 	public static String result_string;
-	/* Result String */
+	/* Result file path */
+	/** The result_file_path. */
 	public static String result_file_path;
-	
+
+	/**
+	 * Sets the _function_type.
+	 * @param function_type the new _function_type
+	 */
 	public void set_function_type(int function_type) {
 		this.function_type = function_type;
 	}	
 
+	/**
+	 * Sets the _search_string.
+	 * @param search_string the new _search_string
+	 */
 	public void set_search_string(String search_string){
 		this.search_string = search_string;
 	}	
 
+	/**
+	 * Gets the _search_string.
+	 * @return the _search_string
+	 */
 	public String get_search_string(){
 		return search_string;
 	}
 
+	/**
+	 * Run_concept_search.
+	 * Perform concept based search fo find experts
+	 * @param concept the concept
+	 * @return the array list
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 * @throws SolrServerException the solr server exception
+	 */
 	private ArrayList<Map<String, String>> run_concept_search(String concept) throws IOException, SolrServerException{
 		result_string += "\nResearch concept string:\n";
 		result_string +=  concept;
@@ -57,7 +97,7 @@ public class CS_Expert_Search {
 		Map<String,String> top_documents_map;
 		Map<String,Double> final_weighted_map;
 		result_string += "\n\nResearch concept search results:\n\n";		
-		String[] concept_queries = Query_Generation.generate_concept_queries(concept);
+		String[] concept_queries = Query_Generator.generate_concept_queries(concept);
 		for(String concept_query:concept_queries){
 			top_documents_map = Solr_Utility.get_top_docs_with_scores(concept_query);
 			relevancy_map_list.add(top_documents_map);
@@ -66,55 +106,79 @@ public class CS_Expert_Search {
 		result_string += "Person Name\t" + "Weighted Relevancy score for concept queries\n";
 		Iterator<String> iterator = final_weighted_map.keySet().iterator();  	   
 		while (iterator.hasNext()) {  
-		   String key = iterator.next();  
-		   String value = final_weighted_map.get(key).toString();     
-		   result_string += key + "\t" + value + "\n";
+			String key = iterator.next();  
+			String value = final_weighted_map.get(key).toString();     
+			result_string += key + "\t" + value + "\n";
 		}
 		result_string += "\n";
 		return relevancy_map_list;
 	}
 
+	/**
+	 * Run_term_search.
+	 * Perform term based search to find experts
+	 * @return the string
+	 * @throws SolrServerException the solr server exception
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	private String run_term_search() throws SolrServerException, IOException{
 		String query_string = this.get_search_string();
 		ArrayList<Map<String, String>> final_relevancy_list = new ArrayList<Map<String, String>>();;
-		ArrayList<Map<String, String>> concept_relevancy_list;
+		ArrayList<Map<String, String>> concept_relevancy_list = null;
 		Map<String,Double> final_weighted_map;
 		Solr_Utility.set_current_core("concept");
 		Map<String, String> relevant_concepts = Solr_Utility.get_top_docs_with_scores(query_string);
 		Map.Entry<String, String> best_relevant_concept = null;
-		for (Map.Entry<String, String> entry : relevant_concepts.entrySet()){
-			if (best_relevant_concept == null || entry.getValue().compareTo(best_relevant_concept.getValue()) > 0){
-				best_relevant_concept = entry;
+		if(relevant_concepts.size() > 0){
+			for (Map.Entry<String, String> entry : relevant_concepts.entrySet()){
+				if (best_relevant_concept == null || entry.getValue().compareTo(best_relevant_concept.getValue()) > 0){
+					best_relevant_concept = entry;
+				}
 			}
+			Solr_Utility.set_current_core("people");
+			concept_relevancy_list = run_concept_search(best_relevant_concept.getKey().toString());	
 		}
-		String tmp_string = result_string;
-		Solr_Utility.set_current_core("people");	
-		concept_relevancy_list = run_concept_search(best_relevant_concept.getKey().toString());	
+
+		String tmp_string = result_string;	
 		Map<String, String> term_relevancy_map = Solr_Utility.get_top_docs_with_scores(query_string);
 		result_string = tmp_string;
 		result_string += "\nInput term search string:\n";
 		result_string += query_string;
 		result_string += "\n\nMost relevant concept to input terms:\n";
-		result_string += best_relevant_concept.getKey().toString();		
+		if(relevant_concepts.size() > 0)
+			result_string += best_relevant_concept.getKey().toString();		
 		result_string += "\n\nInput terms search results:\n";
 		final_relevancy_list.add(term_relevancy_map);
-		final_relevancy_list.addAll(concept_relevancy_list);
+		if(relevant_concepts.size() > 0)
+			final_relevancy_list.addAll(concept_relevancy_list);
 		final_weighted_map = Result_Scorer.score_by_linear_decreasing_weighting(final_relevancy_list,2);
 		Iterator<String> iterator = final_weighted_map.keySet().iterator();  	   
 		result_string += "Person Name\t" + "Weighted Relevancy score for term/concept queries\n";
 		while (iterator.hasNext()) {  
-		   String key = iterator.next();  
-		   String value = final_weighted_map.get(key).toString();     
-		   result_string += key + "\t" + value + "\n";
+			String key = iterator.next();  
+			String value = final_weighted_map.get(key).toString();     
+			result_string += key + "\t" + value + "\n";
 		}
 		result_string += "\n";	
 		return result_string;
 	}
 
+	/**
+	 * Run_indexing.
+	 * Create solr index
+	 * @param path the path
+	 * @throws SolrServerException the solr server exception
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	private void run_indexing(String path) throws SolrServerException, IOException{
 		Solr_Utility.index_documents(path);
 	}
 
+	/**
+	 * Load_from_config_file.
+	 * Get parameters from config file
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	private static void load_from_config_file() throws IOException{
 
 		Properties prop = new Properties();
@@ -131,6 +195,13 @@ public class CS_Expert_Search {
 		MAX_CONCEPT_QUERIES = Integer.parseInt(prop.getProperty("max_concept_queries"));
 	}
 
+	/**
+	 * The main method.
+	 * Entry method for all operations
+	 * @param args the arguments
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 * @throws SolrServerException the solr server exception
+	 */
 	public static void main(String[] args) throws IOException, SolrServerException {		
 		String arg;
 		String query_string = null;

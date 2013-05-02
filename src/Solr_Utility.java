@@ -11,16 +11,31 @@ import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
 import org.apache.solr.common.SolrInputDocument;
 
+/**
+ * The Class Solr_Utility.
+ * Contains methods to interact with solr server
+ */
 public class Solr_Utility {
 	
 	// current index core in use - Caller to set the core before running any operation
+	/** The current_core. */
 	public static String current_core = "people";
 	
+	/**
+	 * Sets the _current solr core.
+	 * @param core the new _current_core
+	 */
 	public static void set_current_core(String core){
 		current_core = core;
 	}
 
-	// Index the documents by reading the files from the specified location
+	/**
+	 * Index_documents.
+	 * Index the documents by reading the files from the specified location 
+	 * @param documents_path the documents_path
+	 * @throws SolrServerException the solr server exception
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	public static void index_documents(String documents_path) throws SolrServerException, IOException{
 		File[] files = File_Utility.get_file_list_in_dir(documents_path);
 		String person_name;
@@ -45,7 +60,13 @@ public class Solr_Utility {
 		server.commit(); 
 	}
 
-	// Search for the input query and return the Solr Doc list
+	/**
+	 * Search_documents.
+	 * Search for the input query and return the Solr Doc list
+	 * @param query_string the query_string
+	 * @return the solr document list
+	 * @throws SolrServerException the solr server exception
+	 */
 	public static SolrDocumentList search_documents(String query_string) throws SolrServerException{
 		SolrServer server = new HttpSolrServer(CS_Expert_Search.SOLR_URL + current_core);
 	    SolrQuery query = new SolrQuery();
@@ -56,7 +77,14 @@ public class Solr_Utility {
 		return docs;
 	}
 
-	// Search the input query and return relevancy Map with decreasing relevancy scores	
+	
+	/**
+	 * Gets the _top_docs_with_scores.
+	 * Search the input query and return relevancy Map with decreasing relevancy scores
+	 * @param query_string the query_string
+	 * @return the _top_docs_with_scores
+	 * @throws SolrServerException the solr server exception
+	 */
 	public static Map<String, String> get_top_docs_with_scores(String query_string) throws SolrServerException{
 		Map<String,String> top_documents_map=new HashMap<String, String>();
 		SolrDocumentList docs = search_documents(query_string);
