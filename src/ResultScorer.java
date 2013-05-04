@@ -1,8 +1,3 @@
-/**
- * The Class Result_Scorer.
- * Methods to rank authors for the concept or term
- */
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -13,6 +8,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * The Class ResultScorer encloses methods to rank authors for the concept or term.
+ */
 public class ResultScorer
 {
 	/**

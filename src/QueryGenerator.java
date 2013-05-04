@@ -2,8 +2,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * The Class Query_Generator.
- * Generates a set of concept queries
+ * The Class QueryGenerator generates a set of concept queries.
  */
 public class QueryGenerator
 {
