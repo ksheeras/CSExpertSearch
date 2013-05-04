@@ -1,154 +1,130 @@
 
-Tagged Values List:
-Illinois university of illinois
-computer science
-Siebel Center
-University of Illinois University of Illinois
-Us
-data structures
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-Algorithm
-Computer science
-Computational complexity theory
-Mathematics
-Analysis of algorithms
-Computer
-Numerical analysis
-Artificial intelligence
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Amazon.com
-Amazon Kindle
-E-book
-Audiobook
-Audiobooks
-Digital rights management
-Cloud computing
-Amazon Web Services
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Power of two
-22
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Dog
-Romain Gary
-Prix Goncourt
-Dog health
-Apex predator
-Madame Rosa
-University
-Cosmopolitan species
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Amazon.com
-Amazon Kindle
-E-book
-Digital rights management
-Animal Farm
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-YouTube
-Google
-The Final
-Carmen Reinhart
-Circle
-Chess
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Polytope
-Convex hull
-Convex polytope
-Computational geometry
-Algorithm
-Geometry
-Delaunay triangulation
-Polyhedron
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-1918
-Polytope
-1920
-1922
-1925
-Convex polytope
-Dimension
-1912
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Algorithm
-Machine learning
-Computational geometry
-Computer science
-Polygon
-Geometry
-Theoretical computer science
-Association for Computing Machinery
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-Computer science
-Algorithm
-Mathematics
-Computational geometry
-Computer
-Illinois
-Geometry
-University
-
-Tagged Values List:
-
-Organizations List:
-
-Concepts:
-1976
-1985
-1989
-1945
-1993
-1948
-1988
-1949
+STAR-Tree: An Efficient Self-Adjusting Index for Moving Objects 349 2002
+Constraint Classification: A New Approach to Multiclass Classification 359 2002
+Towards autonomous mobile agents with emergent migration behaviour 468 2006
+Towards autonomous mobile agents with emergent migration behaviour 468 2006
+Towards autonomous mobile agents with emergent migration behaviour 468 2006
+Approximation algorithms for location problems in sensor networks 605 2005
+Staying in the Middle: Exact and Approximate Medians in R1 and R2 for Moving Points 691 2005
+Dynamic Well-Separated Pair Decomposition Made Easy 691 2005
+Approximation and Exact Algorithms for Minimum-Width Annuli and Shells 818 1999
+Results on -Sets and -Facets via Continuous Motion 818 1998
+Computing approximate shortest paths on convex polytopes 818 2000
+Hausdorff distance under translation for points and balls 818 2003
+The orienteering problem in the plane revisited 818 2006
+The one-round Voronoi game 818 2002
+Fly Cheaply: On the Minimum Fuel-Consumption Problem 818 1998
+Optimally cutting a surface into a disk 818 2002
+On the least median square problem 818 2004
+A practical approach for computing the diameter of a point set 818 2001
+How to get close to the median shape 818 2006
+Approximate Shortest Paths and Geodesic Diameters on Convex Polytopes in Three Dimensions 818 1997
+Constructing Cuttings in Theory and Practice 818 1998
+An Output Sensitive Algorithm for Discrete Convex Hulls 818 1998
+Constructing Approximate Shortest Path Maps in Three Dimensions 818 1998
+When crossings count - approximating the minimum spanning tree 818 2000
+Smaller coresets for k-median and k-means clustering 818 2005
+Efficient algorithms for shared camera control 818 2003
+Fast construction of nets in low dimensional metrics, and their applications 818 2005
+On conflict-free coloring of points and simple regions in the plane 818 2003
+Approximating Shortest Paths on a Convex Polytope in Three Dimensions 818 1996
+A time-optimal delaunay refinement algorithm in two dimensions 818 2005
+Projective clustering in high dimensions using core-sets 818 2002
+High-dimensional shape fitting in linear time 818 2003
+Shape fitting with outliers 818 2003
+Embeddings of surfaces, curves, and moving points in euclidean space 818 2007
+On approximate halfspace range counting and relative epsilon-approximations 818 2007
+Near-Linear Time Approximation Algorithms for Curve Simplification 896 2002
+Fréchet Distance for Curves, Revisited 896 2006
+Fast Algorithms for Computing the Smallest k-Enclosing Disc 896 2003
+Range Medians 896 2008
+Clustering Motion 1630 2001
+A Replacement for Voronoi Diagrams of Near Linear Size 1630 2001
+Taking a Walk in a Planar Arrangement 1630 1999
+Approximate Shape Fitting via Linearization 1630 2001
+No, Coreset, No Cry 1662 2004
+Coresets for Discrete Integration and Clustering 1662 2006
+On generalization bounds, projection profile, and margin distribution 2072 2002
+Guarding Galleries and Terrains 2349 2002
+Maximum Margin Coresets for Active and Noise Tolerant Learning 2366 2007
+Separability with Outliers 2479 2005
+Constraint Classification for Multiclass Classification and Ranking 3049 2002
+Routing with a Clue 3506 1999
+Maintaining approximate extent measures of moving points 3602 2001
+Robust shape fitting via peeling and grating coresets 3602 2006
+On approximating the depth and related problems 3602 2005
+Efficiently Approximating the Minimum-Volume Bounding Box of a Point Set in Three Dimensions 3602 1999
+Polygon-containment and Translational min-Hausdorff-Distance between segment Sets are 3SUM-hard 3602 1999
+On finding a guard that sees most and a shop that sells most 3602 2004
+Sweeping simple polygons with a chain of guards 3602 2000
+Morphing between polylines 3602 2001
+Online point location in planar arrangements and its applications 3602 2001
+How fast is the k-means method? 3602 2005
+Approximate clustering via core-sets 3651 2002
+On coresets for k-means and k-median clustering 3651 2004
+Computing the Penetration Depth of Two Convex Polytopes in 3D 3659 2000
+Reporting Intersecting Pairs of Polytopes in Two and Three Dimensions 2129 2001
+On-Line Zone Construction in Arrangements of Lines in the Plane 3839 1999
+Covering Many or Few Points with Unit Disks 3846 2006
+Computing Approximate Shortest Paths on Convex Polytopes 4595 2002
+Near-Linear Time Approximation Algorithms for Curve Simplification 4595 2005
+Geographic Quorum System Approximations 4595 2005
+Fast Algorithms for Computing the Smallest k-Enclosing Circle 4595 2005
+How Fast Is the k-Means Method? 4595 2005
+Reporting intersecting pairs of convex polytopes in two and three dimensions 4652 2002
+On the Fermat-Weber center of a convex object 4652 2005
+An output sensitive algorithm for discrete convex hulls 4652 1998
+Multicolor Combination Lemma 4652 1999
+How to get close to the median shape 4652 2007
+Optimally cutting a surface into a disk 4663 2002
+When Crossings Count - Approximating the Minimum Spanning Tree 4663 2003
+Fast Construction of Nets in Low Dimensional Metrics, and Their Applications 4663 2004
+A Time-Optimal Delaunay Refinement Algorithm in Two Dimensions 4663 2005
+Range Medians 4663 2008
+Hierarchical neighbor graphs: A low stretch connected structure for points in Euclidean space 4663 2009
+Algorithmic issues in modeling motion 4672 2002
+Approximation Algorithms for Minimum-Width Annuli and Shells 4689 2000
+The One-Round Voronoi Game 4689 2004
+New Similarity Measures between Polylines with Applications to Morphing and Polygon Sweeping 4689 2002
+Optimally Cutting a Surface into a Disk 4689 2004
+Clustering Motion 4689 2004
+Approximate Shortest Paths and Geodesic Diameter on a Convex Polytope in Three Dimensions 4689 1999
+Online Point Location in Planar Arrangements and Its Applications 4689 2001
+Conflict-Free Coloring of Points and Simple Regions in the Plane 4689 2005
+High-Dimensional Shape Fitting in Linear Time 4689 2004
+On the Least Median Square Problem 4689 2006
+Finding a Guard that Sees Most and a Shop that Sells Most 4689 2007
+Smaller Coresets for k-Median and k-Means Clustering 4689 2007
+Robust Shape Fitting via Peeling and Grating Coresets 4689 2008
+Polygon Containment and Translational Min-Hausdorff-Distance Between Segment Sets are 3SUM-Hard 4779 2001
+An Experimental Study of On-Line Methods for Zone Construction in Arrangements of Lines in the Plane 4779 2003
+Guarding galleries and terrains 4831 2006
+Approximating shortest paths on a convex polytope in three dimensions 4851 1997
+Approximating extent measures of points 4851 2004
+Efficiently Approximating the Minimum-Volume Bounding Box of a Point Set in Three Dimensions 4854 2001
+Generalization Bounds for the Area Under the ROC Curve 4905 2005
+Penetration Depth of Two Convex Polytopes in 3D 4982 2000
+Approximating -hop minimum-spanning trees 4990 2005
+Constructing Planar Cuttings in Theory and Practice 5025 2000
+Taking a Walk in a Planar Arrangement 5025 2000
+Constructing Approximate Shortest Path Maps in Three Dimensions 5025 1999
+Fast Construction of Nets in Low-Dimensional Metrics and Their Applications 5025 2006
+Shape Fitting with Outliers 5025 2004
+The Euclidean Orienteering Problem Revisited 5025 2008
+On Approximating the Depth and Related Problems 5025 2008
+Routing with a clue 5103 2001
+Approximation algorithms for maximum independent set of pseudo-disks 818 2009
+On the set multi-cover problem in geometric settings 818 2009
+Approximation algorithm for the L1-fitting circle problem 1559 2005
+Randomized Incremental Construction of Compressed Quadtrees 4663 2009
+Approximating Spanning Trees with Low Crossing Number 4663 2009
+Being Fat and Friendly is Not Enough 4663 2009
+Carnival of Samplings: Nets, Approximations, Relative and Sensitive 4663 2009
+On the Set Multi-Cover Problem in Geometric Settings 4663 2009
+Relative (p,epsilon)-Approximations in Geometry 4663 2009
+Covering Many or Few Points with Unit Disks 4967 2009
+New constructions of SSPDs and their applications 818 2010
+Approximating the Fréchet distance for realistic curves in near linear time 818 2010
+Approximating the Fréchet Distance for Realistic Curves in Near Linear Time 4663 2010
+Approximate Nearest Neighbor Search for Low Dimensional Queries 4663 2010
+Hausdorff distance under translation for points and balls 5061 2010

@@ -46,7 +46,7 @@ JC = javac
 vpath %.java $(SRC_DIR)/
 vpath %.class $(BIN_DIR)/
 CLASSES = \
-	CS_Expert_Search.java
+	CSExpertSearch.java
 #
 # the default make target entry
 #
@@ -75,4 +75,4 @@ clean:
 
 
 run:
-	$(JAVA) $(JFLAGS) CS_Expert_Search -csearch information retrieval
+	$(JAVA) $(JFLAGS) CSExpertSearch -csearch information retrieval

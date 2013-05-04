@@ -1,58 +1,210 @@
 
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
-
-Tagged Values List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Us
-ChengXiang Zhai
-Homeland Security Center
-natural language
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-ChengXiang Zhai
-Homeland Security Center
-College of Engineering Department
-
-Concepts:
-Natural language processing
-Computer science
-Bioinformatics
-Data management
-Data mining
-Data
-Information retrieval
-Information
+Is Belief Revision Harder Than You Thought? 170 1986
+Validating Generalized Plans in the Presence of Incomplete Information 170 1987
+Reasoning about Action Using a Possible Models Approach 170 1988
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Tampering with Special Purpose Trusted Computing Devices: A Case Study in Optical Scan E-Voting 168 2007
+Authorization in the Digital Library: Secure Access to Services Across Enterprise Boundaries 273 1996
+Assuring Security and Privacy for Digital Library Transactions on the Web: Client and Server Security Policies 273 1997
+Internet Credential Acceptance Policies 296 1997
+PeerAccess: a logic for distributed authorization 696 2005
+PRUNES: an efficient and complete strategy for automated trust negotiation over the Internet 696 2000
+Interoperable strategies in automated trust negotiation 696 2001
+Safety and consistency in policy-based authorization systems 696 2006
+Towards an efficient and language-agnostic compliance checker for trust negotiation systems 698 2008
+Remembrance: The Unbearable Sentience of Being Digital 740 2009
+Maitri Demonstration: Managing Large Scale Scientific Data (Demo) 740 2007
+A Model of Object Database Applications and its Use in Cost Estimation 743 1996
+Minipage Locking Support for Object-Oriented Page-Server DBMS 743 1994
+The Index Suggestion Problem for Object Database Applications 743 1995
+Preserving Update Semantics in Schema Integration 743 1994
+RFS: efficient and flexible remote file access for MPI-IO 785 2004
+An Efficient, Nonintrusive, Log-Based I/O Mechanism for Scientific Simulations on Clusters 785 2005
+A Trust Management Approach for Flexible Policy Management in Security-Typed Languages 888 2008
+Use of Change Coordination in an Information-rich Design Environment 914 1989
+Relational and entity-relationship model databases and specialized design files in VLSI design 914 1985
+Negotiating Trust on the Grid 950 2005
+Multilevel Secure Rules: Integrating the Multilevel Secure and Active Data Models 1163 1992
+Trust Negotiation in Dynamic Coalitions 1242 2003
+Zerber: r-confidential indexing for distributed documents 1399 2008
+Deleting index entries from compliance storage 1399 2008
+A Rigorous Approach to Schema Restructuring 1465 1995
+Distributed Authorization by Multiparty Trust Negotiation 1492 2008
+Ontology-Based Policy Specification and Management 1501 2005
+No Registration Needed: How to Use Declarative Policies and Negotiation to Access Sensitive Resources on the Semantic Web 1500 2004
+Topic 18: Parallel I/O and Storage Technology 1535 2001
+The Case of the Fake Picasso: Preventing History Forgery with Secure Provenance 1581 2009
+An Introduction to Automated Trust Establishment 1714 2002
+An Introduction to Automated Trust Establishment 1714 2002
+Parallel Access to Persistent Multidimensional Arrays from HPF Applications Using 1823 2000
+Advanced Data Repository Support for JAVA Scientific Programming 1823 1999
+Automatic Parallel I/O Performance Optimization Using Genetic Algorithms 1826 1998
+Parallel I/O Performance of Fine Grained Data Distributions 1826 1998
+Approaches for Updating Databases With Incomplete Information and Nulls 1968 1984
+GODIVA: Lightweight Data Management for Scientific Visualization Applications 1968 2004
+Trust Negotiation as an Authorization Service forWeb Services 1969 2006
+Adaptive Bitmap Indexes for Space-Constrained Systems 1968 2008
+An Architecture for Regulatory Compliant Database Management 1968 2009
+Updating Logical Databases Containing Null Values 1974 1986
+Optimizing Collective I/O Performance on Parallel Computers: A Multisystem Study 2122 1997
+Parallel I/O for scientific applications on heterogeneous clusters: a resource-utilization approach 2122 1999
+Active buffering plus compressed migration: an integrated solution to parallel simulations' data transport needs 2121 2002
+Tuning high-performance scientific codes: the use of performance models to control resource usage during data migration and I/O 2121 2001
+New GDM-based Declustering Methods for Parallel Range Queries 2183 1999
+Circumscribing Equality 2366 1989
+Sometimes Updates Are Circumscription 2366 1989
+Scalable Message Passing in Panda 2447 1996
+Efficient Input and Output for Scientific Simulations 2447 1999
+Exploiting Local Data in Parallel Array I/O on a Practical Network of Workstations 2447 1997
+Enhancing Data Migration Performance via Parallel Data Compression 2454 2002
+Flexible and Efficient Parallel I/O for Large-Scale Multi-Component Simulations 2454 2003
+Faster Collective Output through Active Buffering 2454 2002
+Improving MPI-IO Output Performance with Active Buffering Plus Threads 2454 2003
+Bitmap indexes for large scientific data sets: a case study 2454 2006
+Parallel I/O Support for HPF on Computational Grids 2510 2002
+Synergy: A Policy-Driven, Trust-Aware Information Dissemination Framework 2511 2006
+Updates with Equality: Beyond the Herbrand Universe Assumption 2527 1991
+Virtual Fingerprinting as a Foundation for Reputation in Open Systems 2586 2006
+Traust: A Trust Negotiation Based Authorization Service 2586 2006
+An Introduction to Trust Negotiation 2586 2003
+Architectural Concepts for Large Knowledge Bases 2705 1987
+Immortal: A Model-Based Belief Revision System 2729 1991
+Trustworthy Migration and Retrieval of Regulatory Compliant Records 2995 2007
+Limiting the Disclosure of Access Control Policies during Automated Trust Negotiation 3030 2001
+Secure Database Interoperation via Dynamic Addition of Roles 3108 1993
+Secure Access to Data Over the Internet 3179 1994
+Protecting Privacy during On-Line Trust Negotiation 3204 2002
+Informal presentation: a trust management perspective on managing policy updates in security-typed languages 3222 2007
+A Model-Theoretic Approach to Updating Logical Databases 3230 1986
+A Framework for Comparison of Update Semantics 3230 1988
+Requirements for Policy Languages for Trust Negotiation 3231 2002
+Policy-Driven Distributed Authorization: Status and Prospects 3231 2007
+Application Experience with Parallel Input/Output: Panda and the H3expresso Black Hole Simulation on the SP2 3248 1997
+Traust: a trust negotiation-based authorization service for open systems 3372 2006
+Lightweight cnsistency enforcement schemes for distributed proofs with hidden subtrees 3372 2007
+Server-Directed Collective I/O in Panda 3402 1995
+An efficient abstract interface for multidimensional array I/O 3402 1994
+PeerTrust: Automated Trust Negotiation for Peers on the Semantic Web 3432 2004
+Requirements of Secure Storage Systems for Healthcare Records 3432 2007
+How to Exploit Ontologies for Trust Negotiation 3457 2004
+PEDCAD: A Framework for Performance Evaluation of Object Database Applications 3529 1995
+Security of Shared Data in Large Systems: State of the Art and Research Directions 3531 2004
+Query-based partitioning of documents and indexes for information lifecycle management 3531 2008
+A Unified Scheme for Resource Protection in Automated Trust Negotiation 3618 2003
+On the Safety and Efficiency of Firewall Policy Deployment 3618 2007
+Automatic Parallel I/O Performance Optimization in Panda 3619 1998
+Efficient I/O of Grid Hierarchies for AMR Computations on Parallel Disks 3639 1998
+Parallel Input/Output with Heterogeneous Disks 3639 1997
+Declustering Large Multidimensional Data Sets for Range Queries over Heterogeneous Disks 3639 2003
+Persistent Array Access Using Server-Directed I/O 3639 1996
+Physical Schemas for Large Multidimensional Arrays in Scientific Computing Applications 3639 1994
+Managing Scientific Data: New Challenges for Database Research 3639 2007
+Trustworthy Keyword Search for Regulatory-Compliant Record Retention 3803 2006
+Security of Shared Data in Large Systems: State of the Art and Research Directions 3803 2004
+Entity Modeling in the MLS Relational Model 3803 1992
+Regulatory-Compliant Data Management 3803 2007
+Harvesting credentials in trust negotiation as an honest-but-curious adversary 3954 2007
+Secure aggregation in a publish-subscribe system 3954 2008
+Policy migration for sensitive credentials in trust negotiation 3954 2003
+Super-sticky and declassifiable release policies for flexible information dissemination control 3954 2006
+Introducing secure provenance: problems and challenges 4354 2007
+Secure deletion from inverted indexes on compliance storage 4354 2006
+Directions and trends of XML and web service security 4355 2006
+Security Challenges of Reconfigurable Devices in the Power Grid 4406 2007
+Circumscriptive Semantics for Updating Knowledge Bases 4597 1991
+Relational and Entity-Relationship Model Databases and VLSI Design 4690 1984
+Review - Towards a Logical Reconstruction of Relational Database Theory 4701 2001
+Review - Object Operations Benchmark 4701 2001
+Review - The Benchmark Handbook for Database and Transaction Systems 4701 2001
+The Pudding of Trust 4729 2004
+A generic interface for parallel access to large data sets from HPF applications 4733 2001
+Two Security Symposia 4765 2003
+Negotiating Trust on the Web 4830 2002
+Circumscription with Homomorphisms: Solving the Equality and Counterexample Problems 4851 1994
+A Model-Based Belief Revision System 4859 1994
+Using Digital Credentials on the World Wide Web 4670 1997
+The Implementation of a Model-based Belief Revision System 5029 1991
+Automatic and portable performance modeling for parallel I/O: a machine-learning approach 5033 2002
+Jeffrey D. Ullman Speaks Out on the Future of Higher Education, Startups, Database Theory, and More 5035 2001
+Gio Wiederhold Speaks Out on Moving into Academia in Mid-Career, How to Be an Effective Consultant, Why You Should Be a Program Manager as a Funding Agency, the Need for Ontology Algebra and Simulations, and More 5035 2001
+Interview with Avi Silberschatz 5035 2002
+David DeWitt Speaks Out 5035 2002
+Hector Garcia-Molina Speaks Out 5035 2002
+Interview with David Maier 5035 2002
+Interview with Jim Gray 5035 2003
+Interview with Michael Stonebraker 5035 2003
+Interview with Rakesh Agrawal 5035 2003
+Interview with Pat Selinger 5035 2003
+Interview with Jeffrey Naughton 5035 2004
+Interview with Phil Bernstein 5035 2004
+Databases in Virtual Organizations: a collective interview and call for researchers 5035 2005
+Bruce Lindsay speaks out: on System R, benchmarking, life as an IBM fellow, the power of DBAs in the old days, why performance still matters, Heisenbugs, why he still writes code, singing pigs, and more 5035 2005
+John Wilkes speaks out: on what the DB community needs to know about storage, how the DB and storage communities can join forces and change the world, and more 5035 2005
+Christos Faloutsos speaks out: on power laws, fractals, the future of data mining, sabbaticals, and more 5035 2005
+Moshe Vardi speaks out on the proof, the whole proof, and nothing but the proof 5035 2006
+Funding for Small US Businesses and from DARPA and NASA 5035 1991
+Opportunities from the US Department of Defense and NSF 5035 1992
+Opportunities in the US from NSF, DARPA, and NASA 5035 1992
+The Winds of Change? 5035 1992
+Change at ONR, and Many Funding Announcements Elsewhere 5035 1993
+SIGMOD Goes On Line: New Member Service Via Internet 5035 1993
+Update on SIGMOD On-Line Services 5035 1993
+NSF and HPCC Under Attack 5035 1993
+Progress on HPCC and NII 5035 1994
+Timely Access to Future Funding Announcements 5035 1993
+Database Research at the University of Illinois at Urbana-Champaign 5035 2002
+Interview: C. Mohan Speaks Out 5035 2004
+Two-Body Job Searches 5035 2003
+Yannis Ioannidis speaks out on database research funding in Europe, the importance of being uncertain, teaching as show business, the history of histograms, and more 5035 2006
+Raghu Ramakrishnan speaks out on deductive databases, what lies beyond scalability, how he burned through $20M briskly, why we should reach out to policymakers, and more 5035 2006
+Gerome Miklau speaks out on his SIGMOD distinguished dissertation award, how great it is to be a professor, and more 5035 2006
+Jennifer Widom speaks out: on luck, what constitutes success, when to get out of an area, the importance of choosing the right husband, outlandish vacations, how hard it is to be an assistant professor, and more 5035 2006
+Stefano Ceri speaks out on many-book researchers and one-startup researchers, web modeling, the vanishing US-Europe research gap, the semantic web services train, and more 5035 2007
+Kyu-Young Whang speaks out: on academia and startups in Korea, probabilistic counting, main-memory query optimization, how to avoid being a hostage of pressure publishing, and more 5035 2007
+Boon Thau Loo speaks out: on his SIGMOD dissertation award, better networking through datalog, life as an assistant professor, and more 5035 2007
+Georg Gottlob speaks out 5035 2007
+Ricardo Baeza-Yates speaks out: on CS research in Latin America, his multi-continent commute for Yahoo!, how to get real data in academia, and web mining 5035 2007
+Serge Abiteboul speaks out: on building a research group in Europe, how he got involved in a startup, why systems papers shouldn't have to include measurements, the value of object databases, and more 5035 2008
+Jim Gray speaks out: on chasing the object-relational rainbow, why performance is a nonissue, bad ideas that went good, reinventing the field, sailboats, lunatic fringe papers, whether to try for a home run, and more 5035 2008
+My biggest fan 5035 2008
+AnHai Doan speaks out on his ACM Dissertation Award, schema matching, following your passion, least publishable units, and more 5035 2008
+Surajit Chaudhuri speaks out on how data mining led him to self-tuning databases: how he does tech transfer, life as a research manager, the fragmentation of database research, and more 5035 2008
+A prescriptive formal model for data-path hardware 5068 1992
+Supporting structured credentials and sensitive policies through interoperable strategies for automated trust negotiation 5084 2003
+The Traust Authorization Service 5084 2008
+Enforcing Safety and Consistency Constraints in Policy-Based Authorization Systems 5084 2008
+A Model-Based Approach to Updating Databases with Incomplete Information 5096 1988
+Formal Query Languages for Secure Relational Databases 5096 1994
+Multi-resolution bitmap indexes for scientific data 5096 2007
+High-Level Buffering for Hiding Periodic Output Cost in Scientific Simulations 5108 2006
+Automated Tuning of Parallel I/O Systems: An Approach to Portable I/O Performance for Scientific Applications 5112 2000
+On the Use of an Extended Relational Model to Handle Changing Incomplete Information 5112 1985
+Trustworthy keyword search for compliance storage 5126 2008
+Automated Trust Negotiation in Open Systems 5474 2007
+Please Permit Me: Stateless Delegated Authorization in Mashups 168 2008
+Implementing Reflective Access Control in SQL 1163 2009
+Finding Regions of Interest in Large Scientific Datasets 3639 2009
+Gerhard Weikum speaks out on why we should go for the grand challenges, why SQL is too powerful, the myth of precision, how to have a big research group in Germany, and more 5035 2009
+Effective, design-independent XML keyword search 743 2009
+Generic and effective semi-structured keyword search 5611 2009
+Remembrance: The Unbearable Sentience of Being Digital 4663 2009
+Proceedings of the 2006 ACM workshop on Formal methods in security engineering, FMSE 2006, Alexandria, VA, USA, November 3, 2006 697 2006
+Proceedings of the 2006 Workshop on Digital Identity Management, Alexandria, VA, USA, November 3, 2006 1235 2006
+Trustworthy vacuuming and litigation holds in long-term high-integrity records retention 1399 2010
+Keyword search for data-centric XML collections with long text fields 1399 2010
+Proceedings of the ISWC*04 Workshop on Trust, Security, and Reputation on the Semantic Web, Hiroshima, Japan, November 7, 2004 3457 2004
+Proceedings of the 1994 ACM SIGMOD International Conference on Management of Data, Minneapolis, Minnesota, May 24-27, 1994 1 1994
+Scientific and Statistical Database Management, 21st International Conference, SSDBM 2009, New Orleans, LA, USA, June 2-4, 2009, Proceedings 3639 2009
+Proceedings of the 2008 ACM Workshop on Privacy in the Electronic Society, WPES 2008, Alexandria, VA, USA, October 27, 2008 3954 2008
+Proceedings of the 2006 ACM Workshop on Privacy in the Electronic Society, WPES 2006, Alexandria, VA, USA, October 30, 2006 3954 2006
+Keyword search over key-value stores 3974 2010
+Peter Buneman speaks out on phylogeny, the integration of databases and programming languages, curated databases, british plumbing, the value of talking to users, when to ignore the literature, and more 5035 2009
+On the consistency of distributed proofs with hidden subtrees 5084 2010
+Preventing history forgery with secure provenance 5105 2009
+Time for Our Field to Grow Up 5285 2010
+EXTRUCT: Using Deep Structural Information in XML Keyword Search 5285 2010

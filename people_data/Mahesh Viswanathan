@@ -1,83 +1,73 @@
 
-Tagged Values List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-Us
-College of Engineering Department
-Illinois
-information systems
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-information systems
-
-Concepts:
-Software engineering
-Programming language
-Computer science
-Computer program
-Computer
-Computer programming
-Formal methods
-Algorithm
-
-Tagged Values List:
-Illinois university of illinois
-computer science
-Siebel Center
-University of Illinois University of Illinois
-Us
-data structures
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-Algorithm
-Computer science
-Computational complexity theory
-Mathematics
-Analysis of algorithms
-Computer
-Numerical analysis
-Artificial intelligence
-
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
+Model Checking Multithreaded Programs with Asynchronous Atomic Methods 683 2006
+Statistical Model Checking of Black-Box Probabilistic Systems 683 2004
+On Statistical Model Checking of Stochastic Systems 683 2005
+LEVER: A Tool for Learning Based Verification 683 2006
+On the Power of Input-Synchronized Alternating Finite Automata 798 2000
+Minimization, Learning, and Conformance Testing of Boolean Programs 827 2006
+Decidability Results for Well-Structured Transition Systems with Auxiliary Storage 827 2007
+A Higher Order Modal Fixed Point Logic 827 2004
+Least Upper Bounds for Probability Measures and Their Applications to Abstractions 827 2008
+Formally specified monitoring of temporal properties 1382 1999
+Modular Preservation of Safety Properties by Cookie-Based DoS-Protection Wrappers 1628 2008
+An Approximate L-Difference Algorithm for Massive Data Streams 1630 1999
+The Relationship between Public Key Encryption and Oblivious Transfer 1630 2000
+Actively Learning to Verify Safety for FIFO Automata 1662 2004
+Samsa: A Speech Analysis, Mining and Summary Application for Outbound Telephone Calls 1793 2001
+A Decidable Class of Planar Linear Hybrid Systems 1842 2008
+STORMED Hybrid Games 1842 2009
+Congruences for Visibly Pushdown Languages 1899 2005
+Foundations for Circular Compositional Reasoning 1899 2001
+STORMED Hybrid Systems 1900 2008
+Retrieval from Spoken Documents using Content and Speaker Information 1958 1999
+Finding Bugs in Network Protocols Using Simulation Code and Protocol-Specific Heuristics 1999 2005
+Learning to Verify Safety Properties 1999 2004
+Information Access using Speech, Speaker and Face Recognition 2064 2000
+Incremental state-space exploration for programs with dynamically allocated data 2126 2008
+Foundations for the Run-Time Monitoring of Reactive Systems - Fundamentals of the MaC Language 2162 2004
+J-Sim: An Integrated Environment for Simulation and Model Checking of Network Protocols 2454 2007
+Verisim: Formal analysis of network simulations 2558 2000
+Building searchable collections of enterprise speech data 2651 2001
+Learning to verify branching time properties 2677 2005
+On the Expressiveness and Complexity of Randomization in Finite State Monitors 2768 2008
+Check and simulate: a case for incorporating model checking in network simulation 2846 2004
+Runtime Assurance Based On Formal Specifications 3185 1999
+Learning Continuous Time Markov Chains from Sample Executions 3288 2004
+VESTA: A Statistical Model-checker and Analyzer for Probabilistic Systems 3288 2005
+Propositional Tree Automata 3350 2006
+Testing Extended Regular Language Membership Incrementally by Rewriting 3350 2003
+Membership Questions for Timed and Hybrid Automata 3358 1998
+Testing and spot-checking of data streams (extended abstract) 3602 2000
+Conformance testing in the presence of multiple faults 3602 2005
+Complexity of Problems on Graphs Represented as OBDDs (Extended Abstract) 3648 1998
+Spot-Checkers 3651 1998
+Model-Checking Markov Chains in the Presence of Uncertainties 3666 2006
+Using Language Inference to Verify Omega-Regular Properties 3666 2005
+On the Complexity of Error Explanation 3811 2005
+Visibly pushdown automata for streaming XML 3974 2007
+Multimedia Content Indexing and Retrieval Using Speech and Speaker Recognition 4540 2000
+Testing and Spot-Checking of Data Streams 4595 2002
+The Complexity of Problems on Graphs Represented as OBDDs 4638 1999
+A Prototype Document Image Analysis System for Technical Journals 4654 1992
+A Counterexample Guided Abstraction-Refinement Framework for Markov Decision Processes 4663 2008
+Java-MaC: a Run-time Assurance Tool for Java Programs 4721 2001
+Computational Analysis of Run-time Monitoring - Fundamentals of Java-MaC 4721 2002
+Preface 4721 2003
+Java-MaC: A Run-Time Assurance Approach for Java Programs 4735 2004
+Learning to verify branching time properties 4735 2007
+Multimedia document retrieval using speech and speaker recognition 4788 2000
+Spot-Checkers 4880 2000
+Syntactic Segmentation and Labeling of Digitized Pages from Technical Journals 4994 1993
+An Approximate L1-Difference Algorithm for Massive Data Streams 5025 2002
+Verisim: Formal Analysis of Network Simulations 5112 2002
+Measuring speech quality for text-to-speech systems: development and assessment of a modified mean opinion score (MOS) scale 5141 2005
+Comment: Projection Methods Require Black Border Removal 4994 2009
+Power of Randomization in Automata on Infinite Strings 827 2009
+On Convergence of Concurrent Systems under Regular Interactions 827 2009
+Query Automata for Nested Words 2851 2009
+On the expressiveness and complexity of randomization in finite state monitors 4851 2009
+Complexity Bounds for the Verification of Real-Time Software 3811 2010
+Verifying Tolerant Systems Using Polynomial Approximations 3358 2009
+Deciding branching time properties for asynchronous programs 5071 2009
+Automated Technology for Verification and Analysis, 6th International Symposium, ATVA 2008, Seoul, Korea, October 20-23, 2008. Proceedings 490 2008
+Simulation + Hypothesis Testing for Model Checking of Probabilistic Systems 3288 2009

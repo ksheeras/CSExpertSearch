@@ -1,71 +1,132 @@
 
-Tagged Values List:
-Us
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-Google
-HP Labs
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-Google
-HP Labs
-College of Engineering Department
-
-Concepts:
-Information retrieval
-Artificial intelligence
-Natural language processing
-Carnegie Mellon University
-Bioinformatics
-Research
-Speech recognition
-Language model
-
-Tagged Values List:
-Sloan Research Fellowships
-Illinois
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-Best Paper Award
-Us
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-image processing
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Organizations List:
-Sloan Research Fellowships
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Concepts:
-Professor
-Doctor of Philosophy
-Doctorate
-Carnegie Mellon University
-Privatdozent
-University
-Research
-Science
+Noun-Phrase Analysis in Unrestricted Text for Information Retrieval 234 1996
+Named Entity Transliteration with Comparable Corpora 234 2006
+Instance Weighting for Domain Adaptation in NLP 234 2007
+Generalized Arc Consistency with Application to MaxCSP 303 2002
+Generalized Arc Consistency with Application to MaxCSP 303 2002
+Generalized Arc Consistency with Application to MaxCSP 303 2002
+Fast Statistical Parsing of Noun Phrases for Document Indexing 380 1997
+Accurately extracting coherent relevant passages using hidden Markov models 743 2005
+Collaborative filtering with decoupled models for preferences and ratings 743 2003
+Implicit user modeling for personalized search 743 2005
+Accurate language model estimation with document expansion 743 2005
+Text classification from positive and unlabeled documents 743 2003
+Model-based Feedback in the Language Modeling Approach to Information Retrieval 743 2001
+A probabilistic relevance propagation model for hypertext retrieval 743 2006
+Best-k queries on database systems 743 2006
+Improve retrieval accuracy for difficult queries using negative feedback 743 2007
+A two-stage approach to domain adaptation for statistical classifiers 743 2007
+Mining term association patterns from search logs for effective query reformulation 743 2008
+Multi-aspect expertise matching for review assignment 743 2008
+Subspace Clustering for Microarray Data Analysis: Multiple Criteria and Significance Assessment 878 2004
+Ranking Database Queries with User Feedback: A Neural Network Approach 1139 2008
+Probabilistic Models for Expert Finding 1356 2007
+Collaborative Wrapping: A Turbo Framework for Web Data Extraction 1968 2007
+Audio segment retrieval using a short duration example query 2067 2004
+Generating semantic annotations for frequent patterns with context analysis 2684 2006
+Discovering evolutionary theme patterns from text: an exploration of temporal text mining 2684 2005
+A mixture model for contextual text mining 2684 2006
+Mining long-term search history to improve search accuracy 2684 2006
+Mining comparable bilingual text corpora for cross-language information integration 2684 2005
+A cross-collection mixture model for comparative text mining 2684 2004
+Automatic labeling of multinomial topic models 2684 2007
+Mining correlated bursty topic patterns from coordinated text streams 2684 2007
+Mining multi-faceted overviews of arbitrary topics in a text collection 2684 2008
+Exploiting Domain Structure for Named Entity Recognition 3012 2006
+Language Model Information Retrieval with Document Expansion 3012 2006
+A Systematic Exploration of the Feature Space for Relation Extraction 3012 2007
+Statistical Language Models for Information Retrieval 3018 2007
+Automatically Generating Gene Summaries from Biomedical Literature 3272 2006
+A formal study of information retrieval heuristics 3521 2004
+An exploration of axiomatic approaches to information retrieval 3521 2005
+Semantic term matching in axiomatic approaches to information retrieval 3521 2006
+Title language model for information retrieval 3521 2002
+Error analysis of difficult TREC topics 3521 2003
+Document Language Models, Query Models, and Risk Minimization for Information Retrieval 3521 2001
+ACES: a contextual engine for search 3521 2004
+Context-sensitive information retrieval using implicit feedback 3521 2005
+UCAIR: a personalized search toolbar 3521 2005
+Exploiting query history for document ranking in interactive information retrieval 3521 2003
+Active feedback in ad hoc information retrieval 3521 2005
+A session-based search engine 3521 2004
+A two-stage mixture model for pseudo feedback 3521 2004
+Regularized estimation of mixture models for robust pseudo-relevance feedback 3521 2006
+Latent semantic analysis for multiple-type interrelated data objects 3521 2006
+Beyond independent relevance: methods and evaluation metrics for subtopic retrieval 3521 2003
+Exploration of a heuristic approach to threshold learning in adaptive filtering 3521 2000
+A Study of Smoothing Methods for Language Models Applied to Ad Hoc Information Retrieval 3521 2001
+Two-stage language models for information retrieval 3521 2002
+Learn from web search logs to organize search results 3521 2007
+A study of Poisson query generation model for information retrieval 3521 2007
+Term feedback for information retrieval with language models 3521 2007
+An exploration of proximity measures in information retrieval 3521 2007
+A study of methods for negative relevance feedback 3521 2008
+A general optimization framework for smoothing language models on graph structures 3521 2008
+A Study of Adaptive Relevance Feedback - UIUC TREC 2008 Relevance Feedback Experiments 3718 2008
+CLARIT TREC-8 Manual Ad-Hoc Experiments 3718 1999
+CLARIT Compound Queries and Constraint-Controlled Feedback in TREC-5 Ad-Hoc Experiments 3718 1996
+CLARIT TREC-4 Interactive Experiments 3718 1995
+Relevance Propagation for Topic Distillation UIUC TREC 2003 Web Track Experiments 3718 2003
+Active Feedback - UIUC TREC-2003 HARD Experiments 3718 2003
+Experiments on Chinese Text Indexing -- CLARIT TREC-5 Chinese Track Report 3718 1996
+OCR Correction and Query Expansion for Retrieval on OCR Data -- CLARIT TREC-5 Confusion Track Report 3718 1996
+Evaluation of Syntactic Phrase Indexing -- CLARIT NLP Track Report 3718 1996
+Optimization in CLARIT TREC-8 Adaptive Filtering 3718 1999
+Threshold Calibration in CLARIT Adaptive Filtering 3718 1998
+Improving the Robustness of Language Models - UIUC TREC 2003 Robust and Genomics Experiments 3718 2003
+Language Models for Genomics Information Retrieval: UIUC at TREC 2007 Genomics Track 3718 2007
+Robust Pseudo Feedback Estimation and HMM Passage Extraction: UIUC at TREC 2006 Genomics Track 3718 2006
+Language Models for Expert Finding--UIUC TREC 2006 Enterprise Track Experiments 3718 2006
+Preference-based Graphic Models for Collaborative Filtering 3725 2003
+Context-Aware Wrapping: Synchronized Data Extraction 3803 2007
+Building Data Integration Systems: A Mass Collaboration Approach 3861 2003
+A probabilistic approach to spatiotemporal theme pattern mining on weblogs 3974 2006
+Topic sentiment mixture: modeling facets and opinions in weblogs 3974 2007
+Topic modeling with network regularization 3974 2008
+Rated aspect summarization of short comments 3974 2009
+Information retrieval for OCR documents: a content-based probabilistic correction model 4296 2003
+Noun-Phrase Analysis in Unrestricted Text for Information Retrieval 4663 1996
+Exploiting Context to Identify Lexical Atoms - A Statistical View of Linguistic Context 4663 1997
+Fast Statistical Parsing of Noun Phrases for Document Indexing 4663 1997
+A risk minimization framework for information retrieval 4832 2006
+Smoothing document language models with probabilistic term count propagation 4834 2008
+An empirical study of tokenization strategies for biomedical information retrieval 4834 2007
+Challenges in information retrieval and language modeling: report of a workshop held at the center for intelligent information retrieval, University of Massachusetts Amherst, September 2002 5031 2003
+Risk minimization and language modeling in text retrieval dissertation abstract 5031 2002
+Meeting of the MINDS: an information retrieval research agenda 5031 2007
+Privacy protection in personalized search 5031 2007
+Learning to rank for information retrieval (LR4IR 2007) 5031 2007
+Database Research at the University of Illinois at Urbana-Champaign 5035 2002
+Preliminary ideas of a conceptual programming language 5039 1990
+A study of smoothing methods for language models applied to information retrieval 5098 2004
+Statistical Language Models for Information Retrieval: A Critical Review 5241 2008
+Topic Cube: Topic Modeling for OLAP on Multidimensional Text Databases 3431 2009
+Positional language models for information retrieval 3521 2009
+UIUC/MUSC at TREC 2005 Genomics Track 3718 2005
+An Axiomatic Approach to IR--UIUC TREC 2005 Robust Track Experiments 3718 2005
+Interactive Construction of Query Language Models - UIUC TREC 2005 HARD Track Experiments 3718 2005
+UIUC in HARD 2004--Passage Retrieval Using HMMs 3718 2004
+Learning to rank for information retrieval (LR4IR 2008) 5031 2008
+A comparative study of methods for estimating query language models with pseudo feedback 743 2009
+Beyond hyperlinks: organizing information footprints in search logs to support effective browsing 743 2009
+Generating comparative summaries of contradictory opinions in text 743 2009
+Constrained multi-aspect expertise matching for committee review assignment 743 2009
+Adaptive relevance feedback in information retrieval 743 2009
+Adaptive Clustering of Search Results 5612 2009
+iNextCube: Information Network-Enhanced Text Cube 5285 2009
+Web Search Result De-duplication and Clustering 5731 2009
+Web Search Relevance Feedback 5731 2009
+Statistical Language Models for Information Retrieval 5776 2008
+Parallel PathFinder Algorithms for Mining Structures from Graphs 1971 2009
+Topic modeling for OLAP on multidimensional text databases: topic cube and its applications 5687 2009
+Generating Impact-Based Summaries for Scientific Literature 234 2008
+Proceedings of the 2004 ACM CIKM International Conference on Information and Knowledge Management, Washington, DC, USA, November 8-13, 2004 743 2004
+Medical Case-based Retrieval by Leveraging Medical Ontology and Physician Feedback: UIUC-IBM at ImageCLEF 2010 7202 2010
+Aggregation of Multiple Judgments for Evaluating Ordered Lists 1356 2010
+Human Language Technology Conference of the North American Chapter of the Association of Computational Linguistics, Proceedings, April 22-27, 2007, Rochester, New York, USA 3012 2007
+Proceedings of the 32nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2009, Boston, MA, USA, July 19-23, 2009 3521 2009
+Positional relevance model for pseudo-relevance feedback 3521 2010
+Estimation of statistical translation models based on mutual information for ad hoc information retrieval 3521 2010
+Towards natural question guided search 3974 2010
+Unsupervised Named Entity Transliteration Using Temporal and Phonetic Correlation 4555 2006
+Learning to rank for information retrieval (LR4IR 2009) 5031 2009

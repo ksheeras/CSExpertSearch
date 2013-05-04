@@ -1,101 +1,90 @@
 
-Tagged Values List:
-Illinois university of illinois
-computer science
-Siebel Center
-University of Illinois University of Illinois
-Us
-data structures
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-Algorithm
-Computer science
-Computational complexity theory
-Mathematics
-Analysis of algorithms
-Computer
-Numerical analysis
-Artificial intelligence
-
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
-
-Tagged Values List:
-Sloan Research Fellowships
-Illinois
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-Best Paper Award
-Us
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-image processing
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Organizations List:
-Sloan Research Fellowships
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Concepts:
-Professor
-Doctor of Philosophy
-Doctorate
-Carnegie Mellon University
-Privatdozent
-University
-Research
-Science
+Reconfiguring Convex Polygons 691 2000
+On the Complexity of Halfspace Volume Queries 691 2003
+Pragmatic Sensitivity in NL Interfaces and the Structure of Conversation 808 1986
+Spacetime meshing with adaptive refinement and coarsening 818 2004
+Minimum-cost coverage of point sets by disks 818 2006
+Splitting (complicated) surfaces is hard 818 2006
+Vertex-unfoldings of simplicial manifolds 818 2002
+Separating point sets in polygonal environments 818 2004
+Raising Roofs, Crashing Cycles, and Playing Pool: Applications of a Data Structure for Finding Pairwise Interactions 818 1998
+Nice point sets can have nasty Delaunay triangulations 818 2001
+Local polyhedra and geometric graphs 818 2003
+New Lower Bounds for Hopcroft's Problem (Extended Abstract) 818 1995
+New Lower Bounds for Convex Hull Problems in Odd Dimensions 818 1996
+Space-Time Tradeoffs for Emptiness Queries (Extended Abstract) 818 1997
+Optimally cutting a surface into a disk 818 2002
+On the least median square problem 818 2004
+Testing contractibility in planar rips complexes 818 2008
+Walking your dog in the woods in polynomial time 818 2008
+Efficient Tradeoff Schemes in Data Structures for Querying Moving Objects 896 2004
+Necklaces, Convolutions, and + 896 2006
+Better Lower Bounds for Halfspace Emptiness 1630 1996
+Better Lower Bounds on Detecting Affine and Spherical Degeneracies 1630 1993
+Capturing a convex object with three discs 2116 2003
+Building Space-Time Meshes Over Arbitrary Spatial Domains 2410 2002
+Automatic Blocking Scheme for Structured Meshing in 2d Multiphase Flow Simulation 2410 2004
+Flat-State Connectivity of Linkages under Dihedral Motions 2479 2002
+Indexing Moving Points 3230 2000
+Efficient Searching with Linear Constraints 3230 1998
+Kinetic Binary Space Partitions for Intersecting Segments and Disjoint Triangles (Extended Abstract) 3602 1998
+Kinetic Collision Detection Between Two Simple Polygons 3602 1999
+Iterated Nearest Neighbors and Finding Minimal Polytopes 3602 1993
+Finite-resolution hidden surface removal 3602 2000
+Dense point sets have sparse Delaunay triangulations: or "... but not too nasty" 3602 2002
+Lower bounds for external algebraic decision trees 3602 2005
+Lower Bounds for Linear Satisfiability Problems 3602 1995
+Separation-Sensitive Collision Detection for Convex Objects 3602 1999
+Greedy optimal homotopy and homology generators 3602 2005
+Tightening non-simple paths and cycles on surfaces 3602 2006
+Finding one tight cycle 3602 2008
+Empty-ellipse graphs 3602 2008
+Output-Sensitive Algorithms for Computing Nearest-Neighbour Decision Boundaries 2129 2003
+Finding Small Holes 2129 2007
+Bounds for Linear Satisfiability Problems 4638 1999
+Reconfiguring convex polygons 4652 2001
+Kinetic collision detection between two simple polygons 4652 2004
+Local polyhedra and geometric graphs 4652 2005
+Preprocessing chains for fast dihedral rotations is hard or even impossible 4652 2003
+Splitting (complicated) surfaces is hard 4652 2008
+Flipturning polygons 4663 2000
+Nice point sets can have nasty Delaunay triangulations 4663 2001
+Vertex-Unfoldings of Simplicial Polyhedra 4663 2001
+Flipping Cubical Meshes 4663 2001
+Dense point sets have sparse Delaunay triangulations 4663 2001
+Vertex-Unfoldings of Simplicial Manifolds 4663 2001
+Preprocessing Chains for Fast Dihedral Rotations Is Hard or Even Impossible 4663 2002
+Building Space-Time Meshes over Arbitrary Spatial Domains 4663 2002
+Optimally cutting a surface into a disk 4663 2002
+Separation-Sensitive Collision Detection for Convex Objects 4663 1998
+Finite-resolution hidden surface removal 4663 1999
+Minimum-Cost Coverage of Point Sets by Disks 4663 2006
+Distance-2 Edge Coloring is NP-Complete 4663 2005
+Algorithmic issues in modeling motion 4672 2002
+Output-Sensitive Algorithms for Computing Nearest-Neighbour Decision Boundaries 4689 2005
+Iterated Nearest Neighbors and Finding Minimal Polytopes 4689 1994
+Raising Roofs, Crashing Cycles, and Playing Pool: Applications of a Data Structure for Finding Pairwise Interactions 4689 1999
+Nice Point Sets Can Have Nasty Delaunay Triangulations 4689 2003
+Dense Point Sets Have Sparse Delaunay Triangulations or "... But Not Too Nasty" 4689 2005
+New Lower Bounds for Hopcroft's Problem 4689 1996
+Optimally Cutting a Surface into a Disk 4689 2004
+Better Lower Bounds on Detecting Affine and Spherical Degeneracies 4689 1995
+Erratum to Better Lower Bounds on Detecting Affine and Spherical Degeneracies 4689 1997
+On the Least Median Square Problem 4689 2006
+Flipping Cubical Meshes 4728 2002
+Building spacetime meshes over arbitrary spatial domains 4728 2005
+Separating Point Sets in Polygonal Environments 4779 2005
+Indexing Moving Points 4880 2003
+Efficient Searching with Linear Constraints 4880 2000
+Realizing partitions respecting full and partial order information 4884 2008
+Space-Time Tradeoffs for Emptiness Queries 5025 2000
+New Lower Bounds for Convex Hull Problems in Odd Dimensions 5025 1999
+Capturing a Convex Object With Three Discs 5232 2007
+Homology flows, cohomology cuts 3651 2009
+Guest Editor's Foreword 4689 2009
+Minimum cuts and shortest homologous cycles 818 2009
+Proceedings of the 23rd ACM Symposium on Computational Geometry, Gyeongju, South Korea, June 6-8, 2007 818 2007
+Maximum Flows and Parametric Shortest Paths in Planar Graphs 3602 2010
+Homotopic Fréchet distance between curves or, walking your dog in the woods in polynomial time 4652 2010
+Vietoris-Rips Complexes of Planar Point Sets 4689 2010
+Finding one tight cycle 5061 2010

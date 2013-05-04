@@ -1,0 +1,52 @@
+===============================================
+Computer Science Expert Finder on Web
+===============================================
+Authors: Adarsh Mysore,Rucha Kanade,Chethan Suresh,Ksheerasagar Balaraju
+
+PreProcessing
+==============
+- Offline crawling and processing of information from Web.
+  This involves focused crawling on selected few domains and extraction of relevant
+  entities from the webpages for online processing. 
+- Filtering of extracted data to create "people profiles" and "concept profiles"
+
+Prerequisites
+================
+- Solr setup running on the local machine or the remote machine
+  Download site:http://lucene.apache.org/solr/
+  	a. Extract the solr to any preferred location - <solr_location>
+       	b. Copy two folders provided "concept" and "people" under <solr_location>/example/solr
+	   Note: These folders can be recreated and indexed as and when fresh profiles need to be generated 
+        c. START the solr server from <solr_location>/example/java -jar start.jar
+           Note: No need to change any parameters if running locally. Just start the Solr 
+- If required, make any changes to the CSExpertSearch.config file provided to locate
+  the appropriate folders for "people profiles","concept profiles" and SOLR_SERVER http location
+ 	
+Installation
+=============
+just 'make'
+
+Usage
+========
+java -cp .:bin:lib/* CSExpertSearch [-index] [-pindex] [-cindex] [-csearch concept_term1 concept_term1..] [-tsearch term1 term2..]
+
+Note: Perform any of the below commands
+[-pindex]  - Index people profile data
+[-cindex]  - Index concept profile data
+[-index]   - Index both people and concept data
+[-csearch concept_term1 concept_term1..] - Find experts based on research concept
+[-tsearch term1 term2..] - Find experts based on terms
+
+Example
+=========
+Note: concept files path, people files path and SOLR http url path should be set in CSExpertSearch.config file provided
+java -cp .:bin:lib/* CSExpertSearch -index
+java -cp .:bin:lib/* CSExpertSearch -pindex
+java -cp .:bin:lib/* CSExpertSearch -cindex 
+java -cp .:bin:lib/* CSExpertSearch -csearch information retrieval
+java -cp .:bin:lib/* CSExpertSearch -psearch time cache segments data
+
+Output
+========
+Search commands "Concept Search" and "Term Search" will output an result.txt in the current directory
+

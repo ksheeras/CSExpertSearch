@@ -1,58 +1,132 @@
 
-Tagged Values List:
-Illinois university of illinois
-Us
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-Java
-SC
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-SC
-
-Concepts:
-Parallel computing
-Central processing unit
-Computer science
-Computer
-C
-Grid computing
-Assembly language
-Programming language
-
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
+Using Software Logging to Support Multi-Version Buffering in Thread-Level Speculation 156 2003
+Architectural Support for Parallel Reductions in Scalable Shared-Memory Multiprocessors 156 2001
+An Direct-Execution Framework for Fast and Accurate Simulation of Superscalar Processors 156 1998
+The Need for Fast Communication in Hardware-Based Speculative Chip Multiprocessors 156 1999
+Design Trade-Offs in High-Throughput Coherence Controllers 156 2003
+Paceline: Improving Single-Thread Performance in Nanoscale CMPs through Core Overclocking 157 2007
+Elimination of Nondeterminacy for Testing and Debugging Parallel Programs 178 1995
+Speculative synchronization: applying thread-level speculation to explicitly parallel applications 455 2002
+Characterizing the Caching and Synchronization Performance of a Multiprocessor Operating System 455 1992
+SoftSig: software-exposed hardware signatures for code analysis and optimization 455 2008
+Concurrency control with data coloring 459 2008
+Capo: a software-hardware interface for practical deterministic multiprocessor replay 455 2009
+Accurate and efficient filtering for the Intel thread checker race detector 457 2006
+CADRE: Cycle-Accurate Deterministic Replay for Hardware Debugging 1295 2006
+Using Register Lifetime Predictions to Protect Register Files against Soft Errors 1295 2007
+Prototyping Architectural Support for Program Rollback Using FPGAs 1588 2005
+Speculative Multithreading Eliminating Squashes through Learning Cross-Thread Violations in Speculative Parallelization for Multiprocessors 1821 2002
+Enhancing Memory Use in Simple Coma: Multiplexed Simple Coma 1821 1998
+Tradeoffs in Buffering Memory State for Thread-Level Speculation in Multiprocessors 1821 2003
+Second Workshop on Computer Architecture Evaluation Using Commercial Workloads 1821 1999
+Automatically Mapping Code on an Intelligent Memory Architecture 1821 2001
+Distance-Adaptive Update Protocols for Scalable Shared-Memory Multiprocessors 1821 1996
+Optimizing Instruction Cache Performance for Operating System Intensive Workloads 1821 1995
+Toward a Cost-Effective DSM Organization That Exploits Processor-Memory Integration 1821 2000
+The Memory Performance of DSS Commercial Workloads in Shared-Memory Multiprocessors 1821 1997
+Improving the Data Cache Performance of Multiprocessor Operating Systems 1821 1996
+Speeding up the Memory Hierarchy in Flat COMA Multiprocessors 1821 1997
+Hardware for Speculative Run-Time Parallelization in Distributed Shared-Memory Multiprocessors 1821 1998
+Hardware for Speculative Parallelization of Partially-Parallel Loops in DSM Multiprocessors 1821 1999
+Reducing Remote Conflict Misses: NUMA with Remote Cache versus COMA 1821 1997
+Colorama: Architectural Support for Data-Centric Synchronization 1821 2007
+ReViveI/O: efficient handling of I/O in highly-available rollback-recovery servers 1821 2006
+Blueshift: Designing processors for timing speculation from the ground up 1821 2009
+Unified Fine-Granularity Buffering of Index and Data: Approach and Implementation 1938 2000
+Detailed Characterization of a Quad Pentium Pro Server Running TPC-D 1938 1999
+FlexRAM: Toward an Advanced Intelligent Memory System 1938 1999
+The Augmint multiprocessor simulation toolkit for Intel x86 architectures 1938 1996
+Cache Optimization for Memory-Resident Decision Support Commercial Workloads 1938 1999
+CAP: Criticality analysis for power-efficient speculative multithreading 1938 2007
+Use IRAM for Rasterization 2035 1998
+Compiler Support for Data Forwarding in Scalable Shared-Memory Multiprocessors 2100 1999
+Optimization of Instruction Fetch for Decision Support Workloads 2100 1999
+Estimating the Performance Advantages of Relaxing Consistency in a Shared Memory Multiprocessor 2101 1990
+Comparing the Performance of the DASH and CEDAR Multiprocessors 2100 1994
+Share Data Placement Optimizations to Reduce Multiprocessor Cache Miss Rates 2102 1990
+The Impact of Speeding up Critical Sections with Data Prefetching and Forwarding 2107 1996
+Data Forwarding in Scalable Shared-Memory Multiprocessors 2122 1995
+Comparing Data Forwarding and Prefetching for Communication-induced Misses in Shared-memory MPs 2122 1998
+Hardware and Software Support for Speculative Execution of Sequential Binaries on a Chip-multiprocessor 2122 1998
+Improving the performance of bristled CC-NUMA systems using virtual channels and adaptivity 2122 1999
+Software trace cache 2122 1999
+Thread-Level Speculation on a CMP can be energy efficient 2121 2005
+Tasking with out-of-order spawn in TLS chip multiprocessors: microarchitecture and compilation 2121 2005
+Optimizing Primary Data Caches for Parallel Scientific Applications: The Pool Buffer Approach 2122 1996
+Energy/Performance Design of Memory Hierarchies for Processor-in-Memory Chips 2411 2000
+Adaptively Mapping Code in an Intelligent Memory Architecture 2411 2000
+SmartApps: An Application Centric Approach to High Performance Computing: Compiler-Assisted Software and Hardware Support for Reduction Operations 2454 2002
+A Clustered Approach to Multithreaded Processors 2457 1998
+Architectural support for scalable speculative parallelization in shared-memory multiprocessors 2485 2000
+Bulk Disambiguation of Speculative Threads in Multiprocessors 2485 2006
+Positional Adaptation of Processors: Application to Energy Reduction 2485 2003
+Removing architectural bottlenecks to the scalability of speculative parallelization 2485 2001
+ReEnact: Using Thread-Level Speculation Mechanisms to Debug Data Races in Multithreaded Codes 2485 2003
+ReVive: Cost-Effective Architectural Support for Rollback Recovery in Shared-Memory Multiprocessors 2485 2002
+Using a User-Level Memory Thread for Correlation Prefetching 2485 2002
+Flexible Snooping: Adaptive Forwarding and Filtering of Snoops in Embedded-Ring Multiprocessors 2485 2006
+Instruction Prefetching of Systems Codes with Layout Optimized for Reduced Cache Misses 2485 1996
+Speeding Up Irregular Applications in Shared-Memory Multiprocessors: Memory Binding and Group Prefetching 2485 1995
+iWatcher: Efficient Architectural Support for Software Debugging 2485 2004
+Variation-Aware Application Scheduling and Power Management for Chip Multiprocessors 2485 2008
+ReCycle: : pipeline adaptation to tolerate process variation 2485 2007
+DeLorean: Recording and Deterministically Replaying Shared-Memory Multiprocessor Execution Effciently 2485 2008
+BulkSC: bulk enforcement of sequential consistency 2485 2007
+Threshold Voltage Variation Effects on Aging-Related Hard Failure Rates 2490 2007
+Energy-efficient hybrid wakeup logic 2516 2002
+L1 data cache decomposition for energy efficiency 2516 2001
+A Model for Timing Errors in Processors with Parameter Variation 2550 2007
+SmartApps: An Application Centric Approach to High Performance Computing 2750 2000
+A framework for dynamic energy efficiency and temperature management 2870 2000
+Cherry: checkpointed early resource recycling in out-of-order microprocessors 2870 2002
+AccMon: Automatically Detecting Memory-Related Bugs via Program Counter-Based Invariants 2870 2004
+Uncorq: Unconstrained Snoop Request Delivery in Embedded-Ring Multiprocessors 2870 2007
+Facelift: Hiding and slowing down aging in multicores 2870 2008
+PathExpander: Architectural Support for Increasing the Path Coverage of Dynamic Bug Detection 2870 2006
+Phoenix: Detecting and Recovering from Permanent Processor Design Bugs with Programmable Hardware 2870 2006
+Scalable Cache Miss Handling for High Memory-Level Parallelism 2870 2006
+Mitigating Parameter Variation with Dynamic Fine-Grain Body Biasing 2870 2007
+EVAL: Utilizing processors with variation-induced timing errors 2870 2008
+Programming the FlexRAM parallel intelligent memory system 3246 2003
+POSH: a TLS compiler that exploits program structure 3246 2006
+Upcoming Architectural Advances in DSM Machines and Their Impact on Programmability 3248 1999
+An efficient algorithm for the run-time parallelization of DOACROSS loops 3402 1994
+The performance of the Cedar multistage switching network 3402 1994
+Analysis of Critical Architectural and Program Parameters in a Hierarchical Shared Memory Multiprocessor 3529 1990
+Benefits of Cache-Affinity Scheduling in Shared-Memory Multiprocessors: A Summary 3529 1993
+Estimating design time for system circuits 3807 2007
+Cache-Only Memory Architectures 4654 1999
+The Need for Fast Communication in Hardware-Based Speculative Chip Multiprocessors 4808 2001
+Software Trace Cache for Commercial Applications 4808 2002
+The Design of DEETM: a Framework for Dynamic Energy Efficiency and Temperature Management 4898 2001
+Evaluating the Performance of Cache-Affinity Scheduling in Shared-Memory Multiprocessors 4923 1995
+Speculative Synchronization: Programmability and Performance for Parallel Codes 4954 2003
+Energy-Efficient Thread-Level Speculation 4954 2006
+Patching Processor Design Errors with Programmable Hardware 4954 2007
+SWICH: A Prototype for Efficient Cache-Level Checkpointing and Rollback 4954 2006
+Guest Editor's Introduction: Micro's Top Picks from Microarchitecture Conferences 4954 2006
+iWatcher: Simple, General Architectural Support for Software Debugging 4954 2004
+CAVA: Using checkpoint-assisted value prediction to hide L2 misses 5060 2006
+Tradeoffs in buffering speculative memory state for thread-level speculation in multiprocessors 5060 2005
+Efficient and flexible architectural support for dynamic monitoring 5060 2005
+A Chip-Multiprocessor Architecture with Speculative Multithreading 5067 1999
+Automatic Code Mapping on an Intelligent Memory Architecture 5067 2001
+False Sharing ans Spatial Locality in Multiprocessor Caches 5067 1994
+Optimizing the Instruction Cache Performance of the Operating System 5067 1998
+Comprehensive Hardware and Software Support for Operating Systems to Exploit 5067 1999
+Excel-NUMA: Toward Programmability, Simplicity, and High Performance 5067 1999
+Data Forwarding in Scalable Shared-Memory Multiprocessors 5108 1996
+Correlation Prefetching with a User-Level Memory Thread 5108 2003
+The Performance of the Cedar Multistage Switching Network 5108 1997
+SigRace: signature-based data race detection 2485 2009
+Two hardware-based approaches for deterministic multiprocessor replay 4620 2009
+How to build a useful thousand-core manycore system? 2454 2009
+Architectures for Extreme-Scale Computing 4654 2009
+Extreme scale computing: challenges and opportunities 3246 2010
+The BubbleWrap many-core: popping cores for sequential acceleration 2870 2009
+Light64: lightweight hardware support for data race detection during systematic testing of parallel programs 2870 2009
+BulkCompiler: high-performance sequential consistency through cooperative compiler and hardware support 2870 2009
+The Bulk Multicore architecture for improved programmability 4620 2009
+SoftSig: Software-Exposed Hardware Signatures for Code Analysis and Optimization 4954 2009
+Proceedings of the 1st Workshop on Architectural and System Support for Improving Software Dependability, ASID 2006, San Jose, California, USA, October 21, 2006 457 2006
+Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPOPP 2006, New York, New York, USA, March 29-31, 2006 3246 2006

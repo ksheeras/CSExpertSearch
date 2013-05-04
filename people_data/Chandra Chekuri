@@ -1,57 +1,108 @@
 
-Tagged Values List:
-Illinois university of illinois
-computer science
-Siebel Center
-University of Illinois University of Illinois
-Us
-data structures
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-Algorithm
-Computer science
-Computational complexity theory
-Mathematics
-Analysis of algorithms
-Computer
-Numerical analysis
-Artificial intelligence
-
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
+Approximation Algorithms for the Unsplittable Flow Problem 420 2002
+Sampling Bounds for Stochastic Optimization 421 2005
+Maximum Coverage Problem with Group Budget Constraints and Applications 421 2004
+An (log) Approximation Ratio for the Asymmetric Traveling Salesman Problem 421 2006
+External Multi-Bracketed Contextual Grammars 550 2000
+Blocking probability estimates in a partitioned sector TDMA system 1225 2000
+Approximation Schemes for Minimizing Average Weighted Completion Time with Release Dates 1630 1999
+Edge-Disjoint Paths in Planar Graphs 1630 2004
+A Recursive Greedy Algorithm for Walks in Directed Graphs 1630 2005
+Approximating a Finite Metric by a Small Number of Tree Metrics 1630 1998
+Approximation Algorithms for Non-Uniform Buy-at-Bulk Network Design 1630 2006
+Buy-at-Bulk Network Design with Protection 1630 2007
+Single-Sink Network Design with Vertex Connectivity Requirements 1662 2008
+Pruning 2-Connected Graphs 1662 2008
+Approximating Steiner k-Cuts 1899 2003
+A PTAS for Minimizing Weighted Completion Time on Uniformly Related Machines 1899 2001
+Multicommodity Demand Flow in a Tree 1899 2003
+Algorithms for 2-Route Cut Problems 1902 2008
+Conjunctive Query Containment Revisited 1974 1997
+Routing Bandwidth Guaranteed Paths with Local Restoration in Label Switched Networks 2084 2002
+Building Edge-Failure Resilient Networks 2450 2002
+An Efficient Approximation Algorithm for Minimizing Makespan on Uniformly Related Machines 2450 1998
+Maximizing a Submodular Set Function Subject to a Matroid Constraint (Extended Abstract) 2450 2007
+Profile-driven Instruction Level Parallel Scheduling with Application to Super Blocks 2870 1996
+Scheduling Problems in Parallel Query Optimization 3230 1995
+Non-cooperative multicast and facility location games 3513 2006
+Fast Estimation of Diameter and Shortest Paths (without Matrix Multiplication) 3602 1996
+Approximation Algorithms for Directed Steiner Problems 3602 1998
+Experimental Study of Minimum Cut Algorithms 3602 1997
+Embedding k-outerplanar graphs into l1 3602 2003
+A PTAS for the multiple knapsack problem 3602 2000
+Edge disjoint paths revisited 3602 2003
+On Multi-Dimensional Packing Problems 3602 1999
+A deterministic algorithm for the cost-distance problem 3602 2001
+Approximation algorithms for the metric labeling problem via a new linear programming formulation 3602 2001
+Minimizing Weighted Completion Time on a Single Machine 3602 1999
+Approximation Techniques for Average Completion Time Scheduling 3602 1997
+Improved algorithms for orienteering and related problems 3602 2008
+Set connectivity problems in undirected graphs and the directed Steiner network problem 3602 2008
+Approximation algorithms for node-weighted buy-at-bulk network design 3602 2007
+Online scheduling to minimize the maximum delay factor 3602 2009
+Incremental Clustering and Dynamic Information Retrieval 3651 1997
+Rounding via Trees: Deterministic Approximation Algorithms for Group Steiner Trees and -Median 3651 1998
+Multi-processor scheduling to minimize flow time with epsilon resource augmentation 3651 2004
+Approximation schemes for preemptive weighted flow time 3651 2002
+The all-or-nothing multicommodity flow problem 3651 2004
+Multicommodity flow, well-linked terminals, and routing problems 3651 2005
+Edge-disjoint paths in Planar graphs with constant congestion 3651 2006
+Algorithms for minimizing weighted flow time 3651 2001
+Filtering with Approximate Predicates 3803 1998
+Performance Guarantees for the TSP with a Parameterized Triangle Inequality 2129 1999
+Building Edge-Failure Resilient Networks 4595 2005
+Approximation Algorithms for the Unsplittable Flow Problem 4595 2007
+Design tools for transparent optical networks 4613 2006
+Approximation Algorithms for Orienteering with Time Windows 4663 2007
+Min-Cost 2-Connected Subgraphs With k Terminals 4663 2008
+Online Scheduling to Minimize the Maximum Delay Factor 4663 2008
+A Graph Reduction Step Preserving Element-Connectivity and Applications 4663 2009
+A greedy approximation algorithm for the group Steiner problem 4682 2006
+On a bidirected relaxation for the MULTIWAY CUT problem 4682 2005
+Precedence Constrained Scheduling to Minimize Sum of Weighted Completion Times on a Single Machine 4682 1999
+Approximation Schemes for Preemptive Weighted Flow Time 4710 2001
+Performance guarantees for the TSP with a parameterized triangle inequality 4831 2000
+Approximation Algorithms for Directed Steiner Problems 4854 1999
+An Efficient Approximation Algorithm for Minimizing Makespan on Uniformly Related Machines 4854 2001
+Special Issue: FOCS 2003 4880 2006
+Routing bandwidth guaranteed paths with local restoration in label switched networks 4928 2005
+Non-Cooperative Multicast and Facility Location Games 4928 2007
+Hardness of robust network design 4977 2007
+Fast Estimation of Diameter and Shortest Paths (Without Matrix Multiplication) 5025 1999
+Incremental Clustering and Dynamic Information Retrieval 5025 2004
+On Multidimensional Packing Problems 5025 2004
+A Polynomial Time Approximation Scheme for the Multiple Knapsack Problem 5025 2005
+Approximation Techniques for Average Completion Time Scheduling 5025 2001
+The Steiner -Cut Problem 5026 2006
+Embedding -Outerplanar Graphs into 5026 2006
+A Linear Programming Formulation and Approximation Algorithms for the Metric Labeling Problem 5026 2004
+Routing and network design with robustness to changing or uncertain traffic demands 5027 2007
+Multicommodity demand flow in a tree and packing integer programs 5061 2007
+Edge-disjoint paths revisited 5061 2007
+Conjunctive query containment revisited 5071 2000
+On average throughput and alphabet size in network coding 5085 2006
+An O(sqrt(n)) Approximation and Integrality Gap for Disjoint Paths and Unsplittable Flow 5253 2006
+An O(log ) Approximation Ratio for the Asymmetric Traveling Salesman Path Problem 5253 2007
+Multicommodity Flow, Well-linked Terminals and Routing Problems 5361 2008
+A Graph Reduction Step Preserving Element-Connectivity and Applications 1902 2009
+A Note on Multiflows and Treewidth 4595 2009
+Foreword 4595 2009
+Minimizing Maximum Response Time and Delay Factor in Broadcast Scheduling 4663 2009
+Longest Wait First for Broadcast Scheduling 4663 2009
+Truthful Mechanisms via Greedy Iterative Packing 4663 2009
+Truthful Mechanisms via Greedy Iterative Packing 421 2009
+Unsplittable Flow in Paths and Trees and Column-Restricted Packing Integer Programs 421 2009
+On the set multi-cover problem in geometric settings 818 2009
+Minimizing Maximum Response Time and Delay Factor in Broadcast Scheduling 896 2009
+On the Set Multi-Cover Problem in Geometric Settings 4663 2009
+Randomized Pipage Rounding for Matroid Polytopes and Applications 4663 2009
+Disjoint bases in a polymatroid 5014 2009
+Edge-Disjoint Paths in Planar Graphs with Constant Congestion 5025 2009
+Approximation Algorithms for Nonuniform Buy-at-Bulk Network Design 5025 2010
+Approximate Integer Decompositions for Undirected Network Design Problems 5026 2008
+Approximation, Randomization and Combinatorial Optimization, Algorithms and Techniques, 8th International Workshop on Approximation Algorithms for Combinatorial Optimization Problems, APPROX 2005 and 9th InternationalWorkshop on Randomization and Computation, RANDOM 2005, Berkeley, CA, USA, August 22-24, 2005, Proceedings 421 2005
+Topology Formation for Wireless Mesh Network Planning 2428 2009
+Flow-Cut Gaps for Integer and Fractional Multiflows 3602 2010
+Longest Wait First for Broadcast Scheduling [Extended Abstract] 3846 2009
+Prize-Collecting Steiner Tree and Forest in Planar Graphs 4663 2010
+Flow-Cut Gaps for Integer and Fractional Multiflows 4663 2010

@@ -1,67 +1,70 @@
 
-Tagged Values List:
-data structures
-embedded systems
-Computer Engineering
-Computer Music
-Internet
-Mobile Computing
-Illinois university of illinois
-data mining
-Evolution
-Bioinformatics
-Cloud Computing
-MPI
-video processing
-data management
-message passing interface
-
-Organizations List:
-Computer Music
-Illinois university of illinois
-MPI
-
-Concepts:
-Computer science
-Computer
-Algorithm
-Computational science
-Artificial intelligence
-Software engineering
-Real-time operating system
-Software architecture
-
-Tagged Values List:
-distributed file systems
-Siebel Center
-embedded systems
-Operating system
-Illinois university of illinois
-University of Illinois University of Illinois
-middleware
-National Science Foundation
-Illinois Green
-Illinois Building
-Google
-Us
-Institute Blue Waters
-College of Engineering Department
-
-Organizations List:
-Siebel Center
-Illinois university of illinois
-University of Illinois University of Illinois
-National Science Foundation
-Google
-Institute Blue Waters
-College of Engineering Department
-
-Concepts:
-Operating system
-Real-time operating system
-Embedded system
-Grid computing
-Real-time computing
-Computer science
-Ubiquitous computing
-Computer
+Holistic Operations in Large-Scale Sensor Network Systems: A Probabilistic Peer-to-Peer Approach 194 2003
+Integrating Digital Resources into a Traditional University Research Library 273 1999
+Integrating Digital Resources into a Traditional University Research Library 273 1999
+Integrating Digital Resources into a Traditional University Research Library 273 1999
+Integrating Digital Resources into a Traditional University Research Library 273 1999
+A Case for Design Methodology Research in Self-* Distributed Systems 529 2005
+GulfStream - a System for Dynamic Topology Management in Multi-domain Server Farms 785 2001
+Cluster-Head Election Using Fuzzy Logic for Wireless Sensor Networks 793 2005
+Perturbation-Resistant and Overlay-Independent Resource Discovery 1295 2005
+SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol 1295 2002
+Scalable Fault-Tolerant Aggregation in Large Process Groups 1295 2001
+Peer-to-peer discovery of computational resources for Grid applications 1752 2005
+Efficient mutual exclusion in peer-to-peer systems 1752 2005
+Measurement of a large-scale overlay for multimedia streaming 1826 2007
+Exploring the Energy-Latency Trade-Off for Broadcasts in Energy-Saving Sensor Networks 1960 2005
+AVMON: Optimal and Scalable Discovery of Consistent Availability Monitoring Overlays for Distributed Systems 1960 2007
+Fair K Mutual Exclusion Algorithm for Peer to Peer Systems 1960 2008
+Towards Multi-Site Collaboration in 3D Tele-Immersive Environments 1960 2008
+Adding Confidentiality to Application-Level Multicast by Leveraging the Multicast Overlay 1961 2005
+A Cross-Layer Architecture to Exploit Multi-Channel Diversity with a Single Transceiver 2428 2007
+AdapCode: Adaptive Network Coding for Code Updates in Wireless Sensor Networks 2428 2008
+Minimal CDMA Recoding Strategies in Power-Controlled Ad-Hoc Wireless Networks 2454 2001
+Kelips: Building an Efficient and Stable P2P DHT through Increased Memory and Background Overhead 2465 2003
+AVMEM - Availability-Aware Overlays for Management Operations in Non-cooperative Distributed Systems 2873 2007
+New Worker-Centric Scheduling Strategies for Data-Intensive Grid Applications 2873 2007
+A piggybacking approach to reduce overhead in sensor network gossiping 2883 2007
+Moara: Flexible and Scalable Group-Based Querying System 2873 2008
+Decentralized Schemes for Size Estimation in Large and Dynamic Groups 3025 2005
+JetStream: Achieving Predictable Gossip Dissemination by Leveraging Social Network Principles 3025 2006
+ContagAlert: Using Contagion Theory for Adaptive, Distributed Alert Propagation 3025 2006
+Practical Exploitation of the Energy-Latency Tradeoff for Sensor Network Broadcast 3196 2007
+On the design of distributed protocols from differential equations 3228 2004
+On scalable and efficient distributed failure detectors 3228 2001
+Efficient Epidemic-Style Protocols for Reliable and Scalable Multicast 3634 2002
+Using Tractable and Realistic Churn Models to Analyze Quiescence Behavior of Distributed Protocols 3634 2008
+MOve: Design of An Application-Malleable Overlay 3634 2006
+AVCast : New Approaches For Implementing Availability-Dependent Reliability for Multicast Receivers 3634 2006
+Overhaul: Extending HTTP to Combat Flash Crowds 3854 2004
+A Probabilistically Correct Leader Election Protocol for Large Groups 3856 2000
+Providing both scale and security through a single core probabilistic protocol 4110 2005
+The P2P MultiRouter: a black box approach to run-time adaptivity for P2P DHTs 4110 2005
+Novel Mathematics-Inspired Algorithms for Self-Adaptive Peer-to-Peer Computing 4170 2007
+QoS-aware Object Replication in Overlay Networks 4255 2006
+Building trees based on aggregation efficiency in sensor networks 4583 2007
+Leveraging Social-Network Infrastructure to Improve Peer-to-Peer Overlay Performance: Results from Orkut 4663 2005
+The design of novel distributed protocols from differential equations 4687 2007
+A New Strategy for Improving the Effectiveness of Resource Reclaiming Algorithms in Multiprocessor Real-Time Systems 4923 2000
+Active and passive techniques for group size estimation in large-scale and dynamic distributed systems 4932 2007
+Bridging the gap: augmenting centralized systems with P2P technologies 5038 2006
+Reliable on-demand management operations for large-scale distributed applications 5038 2007
+A framework for time indexing in sensor networks 5107 2005
+Adaptive probability-based broadcast forwarding in energy-saving sensor networks 5107 2008
+Efficient and Adaptive Epidemic-Style Protocols for Reliable and Scalable Multicast 5108 2006
+A new class of nature-inspired algorithms for self-adaptive peer-to-peer computing 5177 2008
+Coordination and Synchronization: Designing Practical Detectors for Large-Scale Distributed Systems 5368 2008
+MLR-Index: An Index Structure for Fast and Scalable Similarity Search in High Dimensions 3639 2009
+Q-Tree: A Multi-Attribute Based Range Query Solution for Tele-immersive Framework 1960 2009
+Performance Tradeoffs Among Percolation-Based Broadcast Protocols in Wireless Sensor Networks 1961 2009
+Rappel: Exploiting interest and network locality to improve fairness in publish-subscribe systems 4644 2009
+AVCOL: Availability-aware information aggregation in large distributed systems under uncollaborative behavior 4644 2009
+AVMON: Optimal and Scalable Discovery of Consistent Availability Monitoring Overlays for Distributed Systems 5108 2009
+Routing in the frequency domain 5130 2010
+On Availability of Intermediate Data in Cloud Computations 7290 2009
+New Algorithms for Planning Bulk Transfer via Internet and Shipping Networks 1960 2010
+Information Systems Security, 5th International Conference, ICISS 2009, Kolkata, India, December 14-18, 2009, Proceedings 2043 2009
+Using Failure Models for Controlling Data Availability in Wireless Sensor Networks 2428 2009
+Proceedings of the Twenty-Sixth Annual ACM Symposium on Principles of Distributed Computing, PODC 2007, Portland, Oregon, USA, August 12-15, 2007 3228 2007
+Making cloud intermediate data fault-tolerant 4516 2010
+Open Cirrus: A Global Cloud Computing Testbed 4654 2010

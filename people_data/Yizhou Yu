@@ -1,26 +1,49 @@
 
-Tagged Values List:
-HCI
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-Us
-video processing
-College of Engineering Department
-user interface
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-3D computer graphics
-Computer graphics
-Computer
-Computer science
-Computational science
-Computing
-Object-oriented programming
-User interface
+Two-Level Image Segmentation Based on Region and Edge Integration 1229 2003
+Motion Field Estimation for Temporal Textures 1229 2003
+Reconstruction of 3-D Symmetric Curves from Perspective Images without Discrete Features 1342 2004
+Shadow Graphs and Surface Reconstruction 1344 2002
+Error-Robustness of Polar Contour-Coding 1361 1998
+Error-Robustness of Polar Contour-Coding 1361 1998
+Error-Robustness of Polar Contour-Coding 1361 1998
+Hierarchical Tensor Approximation of Multidimensional Images 2038 2007
+Wavelet-based hybrid multilinear models for multidimensional image approximation 2034 2008
+Parallel Progressive Radiosity with Adaptive Meshing 2476 1996
+Pattern-Based Texture Metamorphosis 3206 2002
+Modeling Realistic Virtual Hairstyles 3206 2001
+Laplacian Guided Editing, Synthesis, and Simulation 3206 2007
+Transplanting and Editing Animations on Skinned Meshes 3206 2007
+Efficient View-Dependent Image-Based Rendering with Projective Texture-Mapping 3349 1998
+Synthesizing bidirectional texture functions for real-world surfaces 3514 2001
+Recovering Photometric Properties of Architectural Scenes from Photographs 3514 1998
+Inverse Global Illumination: Recovering Reflectance Models of Real Scenes from Photographs 3514 1999
+Simulation-Based Cartoon Hair Animation 3961 2005
+Efficient visibility processing for projective texture mapping 4630 1999
+Multiresolution B-spline Radiosity 4632 1995
+A Rendering Equation for Specular Transfers and Its Integration into Global Illumination 4632 1997
+Shadow Graphs and 3D Texture Reconstruction 4787 2005
+Parallel Progressive Radiosity with Adaptive Meshing 4923 1997
+Video metamorphosis using dense flow fields 4935 2004
+Inviscid and incompressible fluid simulation on triangle meshes 4935 2004
+Shape-constrained flock animation 4935 2008
+Feature matching and deformation for texture synthesis 5097 2004
+Controllable smoke animation with guiding objects 5097 2005
+A fast multigrid algorithm for mesh deformation 5097 2006
+Out-of-core tensor approximation of multi-dimensional matrices of visual data 5097 2005
+Mesh editing with poisson-based gradient field manipulation 5097 2004
+Gradient domain editing of deforming mesh sequences 5097 2007
+Real-time data driven deformation using kernel canonical correlation analysis 5097 2008
+Extracting Objects from Range and Radiance Images 5119 2001
+Hierarchical Tensor Approximation of Multi-Dimensional Visual Data 5119 2008
+Photogrammetric reconstruction of free-form objects with curvilinear structures 5123 2005
+Controllable motion synthesis in a gaseous medium 5123 2005
+Example-based hair geometry synthesis 5097 2009
+Patch-based image vectorization with automatic curvilinear feature alignment 5097 2009
+Lazy texture selection based on active learning 5123 2010
+Extracting objects from range and radiance images 6053 NULL
+Pattern-based texture metamorphosis 7129 NULL
+Feature-preserving triangular geometry images for level-of-detail representation of static and skinned meshes 5097 2010
+Vector solid textures 5097 2010
+A deformation transformer for real-time cloth animation 5097 2010
+Robust Feature-Preserving Mesh Denoising Based on Consistent Subneighborhoods 5119 2010
+Real-time data driven deformation with affine bones 5123 2010

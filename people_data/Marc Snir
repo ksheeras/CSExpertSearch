@@ -1,146 +1,95 @@
 
-Tagged Values List:
-computer science
-Illinois
-Digital Computer Laboratory
-National Science Foundation
-University of Illinois
-Illinois university of illinois
-Us
-ILLIAC
-University of Illinois University of Illinois
-IBM
-National Science Foundation's Digital Library Project
-Beckman Institute for Advanced Science and Technology
-Princeton
-existence
-Internet
-Illinois Center of Excellence
-PayPal
-Aberdeen
-University of Pennsylvania.
-U.S. Army
-New Jersey
-Google
-Maryland
-UI Library
-Princeton
-NASA
-Urbana
-SIMD
-
-Organizations List:
-Digital Computer Laboratory
-National Science Foundation
-University of Illinois
-Illinois university of illinois
-ILLIAC
-University of Illinois University of Illinois
-IBM
-National Science Foundation's Digital Library Project
-Beckman Institute for Advanced Science and Technology
-Illinois Center of Excellence
-PayPal
-University of Pennsylvania.
-U.S. Army
-Google
-Princeton
-NASA
-
-Concepts:
-Computer
-Parallel computing
-ILLIAC IV
-Computer science
-Algorithm
-Computing
-ILLIAC I
-Von Neumann architecture
-
-Tagged Values List:
-Illinois university of illinois
-Us
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-Java
-SC
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-SC
-
-Concepts:
-Parallel computing
-Central processing unit
-Computer science
-Computer
-C
-Grid computing
-Assembly language
-Programming language
-
-Tagged Values List:
-Illinois university of illinois
-University of Illinois
-Department of Computer Science
-Universal Parallel Computing Research Center
-University of Illinois University of Illinois
-IEEE Technical Committee
-Argonne National Laboratory
-Illinois
-high-performance computing
-Illinois Informatics Institute
-Us
-IBM
-Delft
-Netherlands
-College of Engineering Department
-systems software
-Joint Laboratory
-French National Institute for Research
-INRIA
-
-Organizations List:
-Illinois university of illinois
-University of Illinois
-Department of Computer Science
-University of Illinois University of Illinois
-IEEE Technical Committee
-Illinois Informatics Institute
-IBM
-College of Engineering Department
-French National Institute for Research
-INRIA
-
-Concepts:
-Parallel computing
-Computer science
-Grid computing
-Blue Gene
-FLOPS
-Argonne National Laboratory
-Electrical engineering
-Institute of Electrical and Electronics Engineers
-
-Tagged Values List:
-Senate
-Microsoft
-Chicago
-
-Organizations List:
-Senate
-Microsoft
-
-Concepts:
-Steve Ballmer
-Association for Computing Machinery
-Computer science
-Computer
-Microsoft
-Year of birth missing
-Software engineering
-Computing
+Automatic Tuning Matrix Multiplication Performance on Graphics Hardware 156 2005
+A Zero-Test and an Interpolation Algorithm for the Shifted Sparse Polynominals 179 1993
+A Zero-Test and an Interpolation Algorithm for the Shifted Sparse Polynominals 179 1993
+Better Computing on the Anonymous Ring 515 1988
+MPI-2: Extending the Message-Passing Interface 1537 1996
+Hierarchical Memory with Block Transfer 1630 1987
+Applications of Ramsey's Theorem to Decision Trees Complexity (Preliminary Version) 1630 1984
+PRISM: An Integrated Architecture for Scalable Shared Memory 1821 1998
+Message Proxies for Efficient, Protected Communication on SMP Clusters 1821 1997
+A Complexity Theory of Efficient Parallel Algorithms (Extended Abstract) 1899 1988
+Memory Versus Randomization in On-line Algorithms (Extended Abstract) 1899 1989
+On the Size Complexity of Monotone Formulas 1899 1980
+Proving Lower Bounds for Linar Decision Trees 1899 1981
+MPI Programming Environment for IBM SP1/SP2 1960 1995
+Programming Patterns for Architecture-Level Software Optimizations on Frequent Pattern Mining 1968 2007
+MPI-F: An Efficient Implementation of MPI on IBM-SP1 2103 1994
+The Power of Parallel Prefix 2100 1985
+Efficient Parallel Algorithms for Graph Models 2100 1986
+The Distribution of Waiting Times in Clocked Multistage Interconnection Networks 2100 1986
+Demonstrating the scalability of a molecular dynamics application on a Petaflop computer 2121 2001
+CCL: A Portable and Tunable Collective Communication Library for Scalable Parallel Computers 2455 1994
+For a Massive Number of Massively Parallel Machines: What are the Target Applications, Who are the Target Users, and What New R&D is Needed to Hit the Target? 2455 1996
+Efficient software checking for fault tolerance 2454 2008
+Issues Related to MIMD Shared-memory Computers: The NYU Ultracomputer Approach 2485 1985
+The NYU Ultracomputer-designing a MIMD, shared-memory parallel machine (Extended Abstract) 2485 1982
+The NYU Ultracomputer - Designing a MIMD, Shared-Memory Parallel Machine 2486 1998
+The Importance of Being Square 2485 1984
+Techniques for Efficient Software Checking 2750 2007
+Scalable Parallel Computers and Scalable Parallel Codes: From Theory to Practice 3052 1992
+Computing on an Anonymous Ring 3228 1985
+Efficient Synchronization on Multiprocessors with Shared Memory 3228 1986
+On Parallel Searching (Extended Abstract) 3228 1982
+Issues and Directions in Scalable Parallel Computing 3228 1993
+Computer Architectures and Programming Models for Scalable Parallel Computing 3233 1993
+Designing Efficient, Scalable, and Portable Collective Communication Libraries 3248 1993
+From Trace Generation to Visualization: A Performance Framework for Distributed Parallel Systems 3402 2000
+On Communication Latency in PRAM Computations 3619 1989
+Cost-Bandwidth Tradeoffs for Communication Networks 3619 1989
+Scalable Parallel Computing: The IBM 9076 Scalable POWERparallel 1 3619 1993
+Randomized routing with shorter paths 3619 1993
+A Model for Hierarchical Memory 3651 1987
+Random Walks on Weighted Graphs, and Applications to On-line Algorithms (Preliminary Version) 3651 1990
+Efficient Parallel Algorithms for Graph Problems 4595 1990
+A Message Passing Standard for MPP and Workstations 4620 1996
+Cost-Performance Tradeoffs for Interconnection Networks 4682 1992
+Calling Names on Nameless Networks 4755 1994
+Memory versus randomization in on-line algorithms 4757 1994
+SP2 System Architecture 4759 1995
+SP2 System Architecture 4759 1999
+Blue Gene: A vision for protein science using a petaflop supercomputer 4759 2001
+Parallel File Systems for the IBM SP Computers 4759 1995
+Optimizing Array Reference Checking in Java Programs 4759 1998
+Java programming for high-performance numerical computing 4759 2000
+The Communication Software and Parallel Environment of the IBM SP2 4759 1995
+Demonstrating the Scalability of a Molecular Dynamics Application on a Petaflops Computer 4808 2002
+On the Complexity of Simplifying Quadratic Forms 4831 1981
+Exact Balancing is Not Always Good 4831 1986
+Computing on an anonymous ring 4851 1988
+Random Walks on Weighted Graphs and Applications to On-line Algorithms 4851 1993
+Some Exact Complexity Results for Straight-Line Computations over Semirings 4851 1982
+Applications of Ramsey's Theorem to Decision Tree Complexity 4851 1985
+Better Computing on the Anonymous Ring 4854 1991
+Depth-Size Trade-Offs for Parallel Prefix Computation 4854 1986
+Best Papers from the 2002 International Parallel and Distributed Processing Symposium 4923 2003
+What Are the Top Ten Most Influential Parallel and Distributed Processing Concepts of the Past Millenium? 4923 2001
+Probabilities Over Rich Languages, Testing and Randomness 4933 1982
+On the Depth Complexity of Formulas 4966 1980
+A Note on N-Body Computations with Cutoffs 4967 2004
+The IBM External User Interface for Scalable Parallel Systems 4995 1994
+On Parallel Searching 5025 1985
+Using Visualization Tools to Understand Concurrency 5047 1992
+The NYU Ultracomputer - Designing an MIMD Shared Memory Parallel Computer 5067 1983
+The Power of Parallel Prefix 5067 1985
+The Performance of Multistage Interconnection Networks for Multiprocessors 5067 1983
+The Distribution of Waiting Times in Clocked Multistage Interconnection Networks 5067 1988
+A Direct Approach to the Parallel Evaluation of Rational Expressions with a Small Number of Processors 5067 1977
+Communication Complexity of PRAMs 5071 1990
+Techniques for Parallel Manipulation of Sparse Matrices 5071 1989
+A Complexity Theory of Efficient Parallel Algorithms 5071 1990
+A Unified Theory of Interconnection Network Structure 5071 1986
+Comparisons between Linear Functions can Help 5071 1982
+Lower Bounds on Probabilistic Linear Decision Trees 5071 1985
+Size-depth Trade-Offs for Monotone Arithmetic Circuits 5071 1991
+Efficient Synchronization on Multiprocessors with Shared Memory 5104 1988
+Efficient and Correct Execution of Parallel Programs that Share Memory 5104 1988
+CCL: A Portable and Tunable Collective Communication Library for Scalable Parallel Computers 5108 1995
+Generalized Communicators in the Message Passing Interface 5108 2001
+Randomized Routing with Shorter Paths 5108 1996
+Toward Exascale Resilience 5727 2009
+On the Need for a Consortium of Capability Centers 5727 2009
+A Framework for Measuring Supercomputer Productivity 5727 2004
+ESoftCheck: Removal of Non-vital Checks for Fault Tolerance 721 2009
+Advice to members seeking ACM distinction 4620 2010
+Ubiquitous Parallel Computing from Berkeley, Illinois, and Stanford 4954 2010

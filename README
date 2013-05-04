@@ -28,7 +28,7 @@ just 'make'
 
 Usage
 ========
-java -cp .:bin:lib/* CS_Expert_Search [-index] [-pindex] [-cindex] [-csearch concept_term1 concept_term1..] [-tsearch term1 term2..]
+java -cp .:bin:lib/* CSExpertSearch [-index] [-pindex] [-cindex] [-csearch concept_term1 concept_term1..] [-tsearch term1 term2..]
 
 Note: Perform any of the below commands
 [-pindex]  - Index people profile data
@@ -40,11 +40,11 @@ Note: Perform any of the below commands
 Example
 =========
 Note: concept files path, people files path and SOLR http url path should be set in CSExpertSearch.config file provided
-java -cp .:bin:lib/* CS_Expert_Search -index
-java -cp .:bin:lib/* CS_Expert_Search -pindex
-java -cp .:bin:lib/* CS_Expert_Search -cindex 
-java -cp .:bin:lib/* CS_Expert_Search -csearch information retrieval
-java -cp .:bin:lib/* CS_Expert_Search -psearch time cache segments data
+java -cp .:bin:lib/* CSExpertSearch -index
+java -cp .:bin:lib/* CSExpertSearch -pindex
+java -cp .:bin:lib/* CSExpertSearch -cindex 
+java -cp .:bin:lib/* CSExpertSearch -csearch information retrieval
+java -cp .:bin:lib/* CSExpertSearch -tsearch time cache segments data
 
 Output
 ========

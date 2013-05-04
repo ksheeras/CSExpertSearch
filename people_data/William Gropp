@@ -1,26 +1,124 @@
 
-Tagged Values List:
-Illinois university of illinois
-Us
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-Java
-SC
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Institute Blue Waters
-College of Engineering Department
-SC
-
-Concepts:
-Parallel computing
-Central processing unit
-Computer science
-Computer
-C
-Grid computing
-Assembly language
-Programming language
+Open Issues in MPI Implementation 167 2007
+Automatic Semantic Tagging of Unknown Proper Names 235 1998
+Automatic Semantic Tagging of Unknown Proper Names 235 1998
+Automatic Semantic Tagging of Unknown Proper Names 235 1998
+An Experimental Evaluation of the Parallel I/O Systems of the IBM SP and Intel Paragon Using a Production Application 245 1996
+Design and Evaluation of Nemesis, a Scalable, Low-Latency, Message-Passing Communication Subsystem 692 2006
+Noncontiguous I/O Accesses Through MPI-IO 692 2003
+High performance MPI-2 one-sided communication over InfiniBand 692 2004
+Implementing MPI-IO atomic mode without file system support 692 2005
+Advanced Cluster Programming with MP 785 2001
+Goals Guiding Design: PVM and MP 785 2002
+Predicting memory-access cost based on data-access patterns 785 2004
+Noncontiguous I/O through PVFS 785 2002
+Implementing MPI on the BlueGene/L Supercomputer 1535 2004
+MPI-2: Extending the Message-Passing Interface 1537 1996
+Analyzing the Parallel Scalability of an Implicit Unstructured Mesh CFD Code 1805 2000
+Learning from the Success of MPI 1805 2001
+Communication Analysis of Parallel 3D FFT for Flat Cartesian Meshes on Large Blue Gene Systems 1805 2008
+Improving the Performance of Tensor Matrix Vector Multiplication in Cumulative Reaction Probability Based Quantum Chemistry Codes 1805 2008
+An Evaluation of Object-Based Data Transfers on High Performance Networks 1826 2002
+Panel - Software Tools for High-Performance Distributed Computing 1826 1993
+Interfacing Parallel Jobs to Process Managers 1826 2001
+Data Transfers between Processes in an SMP System: Performance Study and Application to MPI 2100 2006
+CLAM and CLAMShell: An Interactive Front-End for Parallel Computing and Visualization 2103 1990
+Advanced Flow-control Mechanisms for the Sockets Direct Protocol over InfiniBand 2100 2007
+2008 International Conference on Parallel Processing September 8-12, 2008 Portland, Oregon Exploring Parallel I/O Concurrency with Speculative Prefetching 2100 2008
+PETSc and Overture: Lessons Learned Developing an Interface between Components 2237 2000
+Toward Understanding Soft Faults in High Performance Cluster Networks 2396 2003
+On Implementing MPI-IO Portably and with High Performance 2447 1999
+High Performance Wide Area Data Transfers over High Performance Networks 2454 2002
+Exploiting Hierarchy in Parallel Computer Networks to Optimize Collective Operation Performance 2454 2000
+Nonuniformly Communicating Noncontiguous Data: A Case Study with PETSc and MPI 2454 2007
+Prototype of AM3: Active Mapper and Monitoring Module for Myrinet Environments 2749 2002
+Exploring the Relationship Between Parallel Application Run-Time Variability and Network Performance in Clusters 2749 2003
+Solving CFD Problems with Open Source Parallel Libraries 3148 2000
+Infrastructure and Interfaces for Large-Scale Numerical Software 3185 1999
+Collective communication on architectures that support simultaneous communication over multiple links 3246 2006
+Computational Electromagnetics and Parallel Dense Matrix Computations 3248 1995
+Parallel Scalability of the Spectral Transform Method 3248 1991
+Parallel Solution of the Three-Dimensional, Time-Dependent Ginzburg-Landau Equation 3248 1993
+A Parallel Version of the Fast Multipole Method-Invited Talk 3248 1987
+A Gray-Code Schmee for Mesh Refinement on Hypercubes 3248 1987
+Parallel Domain Decomposition with Local Mesh Refinement 3248 1989
+A comparison of domain decomposition techniques for elliptic partial differential equations and their parallel implementation 3248 1985
+Balanced Divide-and-Conquer Algorithms for the Fine-Grained Parallel Direct Solution of Dense and Banded Triangular Linear Systems and their Connection Machine Implementation 3248 1989
+MPI on BlueGene/L: Designing an Efficient General Purpose Messaging Solution for a Large Cellular System 3285 2003
+Designing a Common Communication Subsystem 3285 2005
+A Scalable Process-Management Environment for Parallel Programs 3285 2000
+Automatic Memory Optimizations for Improving MPI Derived Datatype Performance 3285 2006
+A Standard Interface for Debugger Access to Message Queue Information in MPI 3285 1999
+Collective Error Detection for MPI Collective Operations 3285 2005
+Runtime Checking of Datatype Signatures in MPI 3285 2000
+Challenges and Successes in Achieving the Potential of MPI 3285 2001
+MPICH2: A New Start for MPI Implementations 3285 2002
+Building Library Components that Can Use Any MPI Implementation 3285 2002
+Future Developments in MPI 3285 2003
+MPI on the Grid 3285 2002
+High-Level Programming in MPI 3285 2003
+Why Are PVM and MPI So Different? 3285 1997
+Reproducible Measurements of MPI Performance Characteristics 3285 1999
+Scalable Unix Commands for Parallel Processors: A High-Performance Implementation 3285 2001
+Implementing Fast and Reusable Datatype Processing 3285 2003
+Improving the Performance of Collective Operations in MPICH 3285 2003
+A Simple, Pipelined Algorithm for Large, Irregular All-gather Problems 3285 2008
+Self-consistent MPI Performance Requirements 3285 2007
+A Formal Approach to Detect Functionally Irrelevant Barriers in MPI Programs 3285 2008
+Extending the MPI-2 Generalized Request Interface 3285 2007
+Test Suite for Evaluating Performance of MPI Implementations That Support MPI_THREAD_MULTIPLE 3285 2007
+Toward Efficient Support for Multithreaded MPI Communication 3285 2008
+Practical Model-Checking Method for Verifying Correctness of MPI Programs 3285 2007
+Implementing Efficient Dynamic Formal Verification Methods for MPI Programs 3285 2008
+EuroPVM/MPI Full-Day Tutorial. Using MPI-2: A Problem-Based Approach 3285 2008
+Non-data-communication Overheads in MPI: Analysis on Blue Gene/P 3285 2008
+Why we couldn't use numerical libraries for PETSc 3289 1996
+Applications-driven parallel I/O 3402 1993
+Performance Modeling and Tuning of an Unstructured Mesh CFD Application 3402 2000
+Parallel netCDF: A High-Performance Scientific I/O Interface 3402 2003
+MPICH-GQ: Quality-of-Service for Message Passing Programs 3402 2000
+From Trace Generation to Visualization: A Performance Framework for Distributed Parallel Systems 3402 2000
+M01 - Application supercomputing and multiscale simulation techniques 3402 2006
+S01 - Advanced MPI: I/O and one-sided communication 3402 2006
+Multi-core issues - Multi-Core for HPC: breakthrough or breakdown? 3402 2006
+Analyzing the impact of supporting out-of-order communication on in-order performance with iWARP 3402 2007
+Parallel I/O prefetching using MPI file caching and I/O signatures 3402 2008
+Hiding I/O latency with pre-execution prefetching for parallel applications 3402 2008
+Recursive Mesh Refinement on Hypercubes 4617 1989
+Parallel computation of three-dimensional nonlinear magnetostatic problems 4659 1999
+Design and Implementation of MPICH2 over InfiniBand with RDMA Support 4663 2003
+Components and Interfaces of a Process Management System for Parallel Programs 4663 2001
+Scalable Unix Commands for Parallel Processors: A High-Performance Implementation 4663 2001
+Learning from the Success of MPI 4663 2001
+A Multilevel Approach to Topology-Aware Collective Operations in Computational Grids 4663 2002
+Noncontiguous I/O through PVFS 4663 2002
+Parallel netCDF: A Scientific High-Performance I/O Interface 4663 2003
+Optimizing Noncontiguous Accesses in MPI-IO 4663 2003
+Design and implementation of message-passing services for the Blue Gene/L supercomputer 4757 2005
+Experiences with the IBM SP1 4759 1995
+Domain decomposition on parallel computers 4820 1989
+Krylov Methods Preconditioned with Incompletely Factored Matrices on the CM-2 4923 1990
+Components and interfaces of a process management system for parallel programs 4995 2001
+Wide-Area Implementation of the Message Passing Interface 4995 1998
+High-performance parallel implicit CFD 4995 2001
+A High-Performance MPI Implementation on a Shared-Memory Vector Supercomputer 4995 1997
+A High-Performance, Portable Implementation of the MPI Message Passing Interface Standard 4995 1996
+Optimizing noncontiguous accesses in MPI-IO 4995 2002
+Thread-safety in an MPI implementation: Requirements and analysis 4995 2007
+Implementation and evaluation of shared-memory communication and synchronization operations in MPICH2 using the Nemesis communication subsystem 4995 2007
+An efficient format for nearly constant-time access to arbitrary time intervals in large trace files 5050 2008
+Evaluating structured I/O methods for parallel file systems 5196 2004
+MPI on a Million Processors 3285 2009
+Hierarchical Collectives in MPICH2 3285 2009
+Processing MPI Datatypes Outside MPI 3285 2009
+MPI at Exascale: Challenges for Data Structures and Algorithms 3285 2009
+On the Need for a Consortium of Capability Centers 5727 2009
+A Portable Method for Finding User Errors in the Usage of MPI Collective Operations 5727 2007
+Optimizing the Synchronization Operations in Message Passing Interface One-Sided Communication 5727 2005
+Optimization of Collective Communication Operations in MPICH 5727 2005
+Fault Tolerance in Message Passing Interface Programs 5727 2004
+Natively Supporting True One-Sided Communication in 692 2009
+Investigating High Performance RMA Interfaces for the MPI-3 Standard 2100 2009
+Toward message passing for a million processes: characterizing MPI on a massive scale blue gene/P 5531 2009
+Test suite for evaluating performance of multithreaded MPI communication 4995 2009
+Formal methods applied to high-performance computing software design: a case study of MPI one-sided communication-based locking 5051 2010

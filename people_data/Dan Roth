@@ -1,111 +1,136 @@
 
-Tagged Values List:
-Illinois university of illinois
-computer science
-Siebel Center
-University of Illinois University of Illinois
-Us
-data structures
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-Siebel Center
-University of Illinois University of Illinois
-College of Engineering Department
-
-Concepts:
-Algorithm
-Computer science
-Computational complexity theory
-Mathematics
-Analysis of algorithms
-Computer
-Numerical analysis
-Artificial intelligence
-
-Tagged Values List:
-natural language
-Illinois university of illinois
-University of Illinois University of Illinois
-Us
-Siebel Center
-Harvard University
-Best Paper Award
-College of Engineering Department
-software packages
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Siebel Center
-Harvard University
-College of Engineering Department
-
-Concepts:
-Natural language processing
-Artificial intelligence
-Linguistics
-Illinois
-Logic
-Intelligence
-Natural language understanding
-Natural language
-
-Tagged Values List:
-natural language
-Artificial Intelligence
-Illinois university of illinois
-Siebel Center News & Events Lectures & Videos Research Centers
-Siebel Center
-University of Illinois University of Illinois
-Paris
-Us
-Intel
-data mining
-College of Engineering Department
-
-Organizations List:
-Artificial Intelligence
-Illinois university of illinois
-Siebel Center News & Events Lectures & Videos Research Centers
-Siebel Center
-University of Illinois University of Illinois
-Intel
-College of Engineering Department
-
-Concepts:
-Artificial intelligence
-Natural language processing
-Machine learning
-Linguistics
-Logic
-Bioinformatics
-Computer science
-Artificial neural network
-
-Tagged Values List:
-Illinois university of illinois
-University of Illinois University of Illinois
-Us
-ChengXiang Zhai
-Homeland Security Center
-natural language
-College of Engineering Department
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-ChengXiang Zhai
-Homeland Security Center
-College of Engineering Department
-
-Concepts:
-Natural language processing
-Computer science
-Bioinformatics
-Data management
-Data mining
-Data
-Information retrieval
-Information
+MPE and Partial Inversion in Lifted Probabilistic Variable Elimination 170 2006
+An Inference Model for Semantic Entailment in Natural Language 170 2005
+Learning to Reason 170 1994
+Reasoning with Models 170 1994
+Identification and Tracing of Ambiguous Names: Discriminative and Generative Approaches 170 2004
+A Connectionist Framework for Reasoning: Reasoning with Examples 171 1996
+Learning to Resolve Natural Language Ambiguities: A Unified Approach 172 1998
+Toward a Theory of Learning Coherent Concepts 172 2000
+Active Learning for Pipeline Models 170 2008
+Proactive Intrusion Detection 170 2008
+Importance of Semantic Representation: Dataless Classification 170 2008
+Learning and Inference with Constraints 170 2008
+A Pipeline Framework for Dependency Parsing 234 2006
+Weakly Supervised Named Entity Transliteration and Discovery from Multilingual Comparable Corpora 234 2006
+Simultaneous Interpretation Utilizing Example-based Incremental Transfer 235 1998
+Simultaneous Interpretation Utilizing Example-based Incremental Transfer 235 1998
+Simultaneous Interpretation Utilizing Example-based Incremental Transfer 235 1998
+Part of Speech Tagging Using a Network of Linear Separators 235 1998
+Guiding Semi-Supervision with Constraint-Driven Learning 234 2007
+Learning Coherent Concepts 359 2001
+Constraint Classification: A New Approach to Multiclass Classification 359 2002
+A Classification Approach to Word Prediction 380 2000
+Finding the Maximum Area Axis-parallel Rectangle in a Polygon 691 1993
+Learning Question Classifiers 808 2002
+Probabilistic Reasoning for Entity & Relation Recognition 808 2002
+Applying System Combination to Base Noun Phrase Identification 808 2000
+Learnability of Bipartite Ranking Functions 813 2005
+On Learning Read--Satisfy- DNF 813 1994
+Learning to Reason with a Restricted View 813 1995
+On Learning Visual Concepts and DNF Formulae 813 1993
+Clustering Appearances of 3D Objects 910 1998
+Learning to Recognize Objects 910 2000
+Learning a Sparse Representation for Object Detection 1341 2002
+Learning to Recognize 3D Objects with SNoW 1343 2000
+A Tale of Two Classifiers: SNoW vs. SVM in Visual Recognition 1341 2002
+Learning and Inference for Clause Identification 1363 2002
+Understanding Probabilistic Classifiers 1363 2001
+Reasoning with Classifiers 1363 2002
+Margin-Based Active Learning for Structured Output Spaces 1363 2006
+Context Sensitive Paraphrasing with a Global Unsupervised Classifier 1363 2007
+An Unsupervised Learning Algorithm for Rank Aggregation 1363 2007
+Scaling Up Context-Sensitive Text Correction 1850 2001
+Automated and Adaptive Threshold Setting: Enabling Technology for Autonomy and Self-Management 1890 2005
+Face detection using large margin classifiers 2036 2001
+Bimodal HCI-related affect recognition 2071 2004
+On Kernel Methods for Relational Learning 2072 2003
+On generalization bounds, projection profile, and margin distribution 2072 2002
+Margin Distribution and Learning 2072 2003
+Applying Winnow to Context-Sensitive Spelling Correction 2072 1996
+Learning Active Classifiers 2072 1996
+Integer linear programming inference for conditional random fields 2072 2005
+Unsupervised rank aggregation with distance-based models 2072 2008
+Lifted First-Order Probabilistic Inference 2366 2005
+An Inference Model for Semantic Entailment in Natural Language 2366 2005
+Default-Reasoning with Models 2366 1995
+Relational Learning for NLP using Linear Threshold Elements 2366 1999
+The Necessity of Syntactic Parsing for Semantic Role Labeling 2366 2005
+Learning and Inference over Constrained Output 2366 2005
+On the Hardness of Approximate Reasoning 2366 1993
+Learning to Reason: The Non-Monotonic Case 2366 1995
+Learning in Natural Language 2366 1999
+Relational Learning via Propositional Algorithms: An Information Extraction Case Study 2366 2001
+Maximum Margin Coresets for Active and Noise Tolerant Learning 2366 2007
+Learning with Feature Description Logics 2392 2002
+Gene recognition based on DAG shortest paths 2521 2001
+Relational Representations that Facilitate Learning 2729 2000
+Learning to Perform Knowledge-Intensive Inferences 2851 1997
+An Inference Model for Semantic Entailment in Natural Language 2911 2005
+Robust Reading: Identification and Tracing of Ambiguous Names 3012 2004
+Named Entity Transliteration and Discovery from Multilingual Comparable Corpora 3012 2006
+Demonstrating an Interactive Semantic Role Labeling System 3014 2005
+Emotions from Text: Machine Learning for Text-based Emotion Prediction 3014 2005
+A Large Deviation Bound for the Area Under the ROC Curve 3049 2004
+Linear Concepts and Hidden Variables: An Empirical Study 3049 1997
+Constraint Classification for Multiclass Classification and Ranking 3049 2002
+Efficiency versus Convergence of Boolean Kernels for On-Line Learning Algorithms 3049 2001
+The Use of Classifiers in Sequential Inference 3049 2000
+A SNoW-Based Face Detector 3049 1999
+Reasoning with Classifiers 3214 2002
+Learning in Order to Reason: The Approach 3603 1996
+Coherent Concepts, Robust Learning 3603 1999
+Learning Components for A Question-Answering System 3718 2001
+Question-Answering via Enhanced Understanding of Questions 3718 2002
+Efficient, Strongly Consistent Implementations of Shared Memory (Extended Abstract) 3855 1992
+Which "Apple" are you talking about ? 3974 2008
+Extracting article text from the web with maximum subsequence segmentation 3974 2009
+Modeling Discriminative Global Inference 2123 2007
+Understanding the Value of Features for Coreference Resolution 4555 2008
+Transliteration as Constrained Optimization 4555 2008
+Reasoning with Examples: Propositional Formulae and Database Dependencies 4580 1999
+Learning cost-sensitive active classifiers 4588 2002
+Reasoning with Models 4588 1996
+Defaults and Relevance in Model-Based Reasoning 4588 1997
+Controlled generation of hard and easy Bayesian networks: Impact on maximal clique size in tree clustering 4588 2006
+On the Hardness of Approximate Reasoning 4588 1996
+Semantic Integration in Text: From Ambiguous Names to Identifiable Entities 4592 2005
+The Importance of Syntactic Parsing and Inference in Semantic Role Labeling 4647 2008
+Identifying Semitic Roots: Machine Learning with Linguistic Constraints 4647 2008
+Finding the Largest Area Axis-parallel Rectangle in a Polygon 4652 1997
+Applying Winnow to Context-Sensitive Spelling Correction 4663 1996
+Mistake-Driven Learning in Text Categorization 4663 1997
+A Sequential Model for Multi-Class Classification 4663 2001
+Applying System Combination to Base Noun Phrase Identification 4663 2000
+A Classification Approach to Word Prediction 4663 2000
+Learning to Resolve Natural Language Ambiguities: A Unified Approach 4663 1998
+A Learning Approach to Shallow Parsing 4663 2000
+The Use of Classifiers in Sequential Inference 4663 2001
+A Winnow-Based Approach to Context-Sensitive Spelling Correction 4663 1998
+Learning to reason 4851 1997
+Efficiency versus Convergence of Boolean Kernels for On-Line Learning Algorithms 4852 2005
+Generalization Bounds for the Area Under the ROC Curve 4905 2005
+Guest Editors Introduction: Machine Learning in Speech and Language Technologies 4958 2005
+A Winnow-Based Approach to Context-Sensitive Spelling Correction 4958 1999
+Linear Concepts and Hidden Variables 4958 2001
+On Learning Visual Concepts and DNF Formulae 4958 1996
+Learning to Reason with a Restricted View 4958 1999
+Learning to Recognize Three-Dimensional Objects 4975 2002
+Learning to Detect Objects in Images via a Sparse, Part-Based Representation 4994 2004
+On Learning Read-k-Satisfy-j DNF 5025 1998
+Linearizable Read/Write Objects 5071 1999
+Audio-Visual Affect Recognition 5091 2007
+A Survey of First-Order Probabilistic Models 5455 2008
+Learning better transliterations 743 2009
+Unsupervised Rank Aggregation with Domain-Specific Expertise 2366 2009
+Learning Multi-linear Representations of Distributions for Efficient Inference 3216 2009
+Aspect Guided Text Categorization with Unobserved Labels 1971 2009
+Learning multi-linear representations of distributions for efficient inference 4958 2009
+Extraction of Entailed Semantic Relations Through Syntax-Based Comma Resolution 234 2008
+Active Sample Selection for Named Entity Transliteration 7175 2008
+Structured Output Learning with Indirect Supervision 2072 2010
+Unsupervised Constraint Driven Learning For Transliteration Discovery 3012 2009
+Automatic Model Adaptation for Complex Structured Domains 3215 2010
+Reading to Learn: Constructing Features from Semantic Abstracts 4555 2009
+Learning Hebrew Roots: Machine Learning with Linguistic Constraints 4555 2004
+Learning Based Java for Rapid Development of NLP Systems 7462 2010

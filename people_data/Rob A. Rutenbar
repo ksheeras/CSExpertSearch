@@ -1,112 +1,111 @@
 
-Tagged Values List:
-Siebel Center
-Head of Department
-Contacts Department
-Illinois university of illinois
-Us
-External Relations
-Administrative Support
-Administrative Office
-University of Illinois University of Illinois
-
-Organizations List:
-Siebel Center
-Head of Department
-Contacts Department
-Illinois university of illinois
-External Relations
-Administrative Support
-Administrative Office
-University of Illinois University of Illinois
-
-Concepts:
-23rd century
-3rd millennium
-
-Tagged Values List:
-Sloan Research Fellowships
-Illinois
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-Best Paper Award
-Us
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-image processing
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Organizations List:
-Sloan Research Fellowships
-Illinois university of illinois
-University of Illinois University of Illinois
-Sloan Research Fellowship
-Alfred P. Sloan Foundation.
-Beckman Institute for Advanced Science and Technology
-University of Illinois
-Carnegie Mellon University
-Intel
-Google
-University of North Carolina
-Microsoft
-College of Engineering Department
-
-Concepts:
-Professor
-Doctor of Philosophy
-Doctorate
-Carnegie Mellon University
-Privatdozent
-University
-Research
-Science
-
-Tagged Values List:
-Us
-Illinois university of illinois
-University of Illinois University of Illinois
-University of Illinois
-Siebel Center
-University of Michigan
-Carnegie Mellon University
-Cadence
-Neolinear Inc.
-US government
-Semiconductor Research Corporation
-ACM
-Microsoft
-Chicago
-College of Engineering Department
-EE Times
-The Economist
-
-Organizations List:
-Illinois university of illinois
-University of Illinois University of Illinois
-University of Illinois
-Siebel Center
-Carnegie Mellon University
-Cadence
-Neolinear Inc.
-US government
-Semiconductor Research Corporation
-ACM
-Microsoft
-College of Engineering Department
-
-Concepts:
-Carnegie Mellon University
-Artificial intelligence
-Institute of Electrical and Electronics Engineers
-Association of American Universities
-Illinois
-Computer science
-Big Ten Conference
-Committee on Institutional Cooperation
+Next-Generation Design and EDA Challenges: Small Physics, Big Systems, and Tall Tool-Chains 454 2007
+Labels from Reductions: Towards a General Theory 662 2005
+Labels from Reductions: Towards a General Theory 662 2005
+Labels from Reductions: Towards a General Theory 662 2005
+An Algorithm for Transistor Stacking with Performance Constraints 914 1996
+Synthesis Tools for Mixed-Signal ICs: Progress on Frontend and Backend Strategies 914 1996
+Mask Verification on the Connection Machine 914 1988
+Design and Performance Evaluation of New Massively Parallel VLSI Mask Verification Algorithms in JIGSAW 914 1990
+Case studies: Chip design on the bleeding edge (panel session abstract) 914 2000
+Toward efficient static analysis of finite-precision effects in DSP applications via affine arithmetic modeling 914 2003
+A Prototype Framework for Knowledge-Based Analog Circuit Synthesis 914 1987
+MAELSTROM: Efficient Simulation-Based Synthesis for Custom Analog Cells 914 1999
+Massively Parallel Switch-Level Simulation: A Feasibility Study 914 1989
+Multiprocessor-based placement by simulated annealing 914 1986
+Remembrance of circuits past: macromodeling by data mining in large analog design spaces 914 2002
+A Mixed-Integer Nonlinear Programming Approach to Analog Circuit Synthesis 914 1992
+Performance-Driven Simultaneous Place and Route for Row-Based FPGAs 914 1994
+ASTRX/OBLX: Tools for Rapid Synthesis of High-Performance Analog Circuits 914 1994
+Survival strategies for mixed-signal systems-on-chip (panel session) 914 2000
+A case study of synthesis for industrial-scale analog IP: redesign of the equalizer/filter frontend for an ADSL CODEC 914 2000
+Panel: (When) Will FPGAs Kill ASICs? 914 2001
+Will Moore's Law rule in the land of analog? 914 2004
+Life at the end of CMOS scaling (and beyond) (panel session) (abstract only) 914 2000
+Mixed signals on mixed-signal: the right next technology 914 2003
+ELF: A Tool for Automatic Synthesis of Custom Physical CAD Software 914 1989
+Probabilistic interval-valued computation: toward a practical surrogate for statistics inside CAD tools 914 2006
+Scalable trajectory methods for on-demand analog macromodel extraction 914 2005
+Generation of yield-aware Pareto surfaces for hierarchical circuit design space exploration 914 2006
+Large-scale placement by grid-warping 914 2004
+Timing-driven placement by grid-warping 914 2005
+A synthesis flow toward fast parasitic closure for radio-frequency integrated circuits 914 2004
+Future directions for DA machine research (panel session) 914 1985
+Beyond Low-Order Statistical Response Surfaces: Latent Variable Regression for Efficient, Highly Nonlinear Fitting 914 2007
+Verifying really complex systems: on earth and beyond 914 2008
+Designer-Driven Topology Optimization for Pipelined Analog to Digital Converters 1140 2005
+Verifying analog oscillator circuits using forward/backward abstraction refinement 1140 2006
+A boolean satisfiability-based incremental rerouting approach with application to FPGAs 1140 2001
+Statistical blockade: a novel method for very fast Monte Carlo simulation of rare circuit events, and its application 1140 2007
+Exploiting Correlation Kernels for Efficient Handling of Intra-Die Spatial Correlation, with Application to Statistical Timing 1140 2008
+Synthesis for Industrial-Scale Analog Intellectual Property 1434 2001
+Satisfiability-Based Layout Revisited: Detailed Routing of Complex FPGAs vis Search-Based Boolean SAT 1645 1999
+A 1000-word vocabulary, speaker-independent, continuous live-mode speech recognizer implemented in a single FPGA 1645 2007
+FPGA Routing and Routability Estimation via Boolean Satisfiability 1645 1997
+A multi-fpga 10x-real-time high-speed search engine for a 5000-word vocabulary speech recognizer 1645 2009
+Hybrid Routing for FPGAs by Integrating Boolean Satisfiability with Geometric Search 1646 2002
+Latchup-aware placement and parasitic-bounded routing of custom analog cells 1929 1993
+Techniques for Simultaneous Placement and Routing of Custom Analog Cells in KOAN/ANAGRAM II 1929 1991
+A hierarchical decomposition methodology for multistage clock circuits 1929 1997
+Fast, Accurate Static Analysis for Fixed-Point Finite-Precision Effects in DSP Designs 1929 2003
+Direct Transistor-Level Layout for Digital Blocks 1929 2001
+Towards formal verification of analog designs 1929 2004
+A Parallel Steiner Heuristic for Wirelength Estimation of Large Net Populations 1929 1991
+ASF: A Practical Simulation-Based Methodology for the Synthesis of Custom Analog Circuits 1929 2001
+Interval-valued reduced order statistical interconnect modeling 1929 2004
+Embedded Tutorial: CAD Solutions and Outstanding Challenges for Mixed-Signal and RF IC Design 1929 2001
+Interval-valued statistical modeling of oxide chemical-mechanical polishing 1929 2005
+System-level routing of mixed-signal ASICs in WREN 1929 1992
+Synthesis of manufacturable analog circuits 1929 1994
+Performance-driven simultaneous place and route for island-style FPGAs 1929 1995
+Automatic Hierarchical Design: Fantasy or Reality? (Panel) 1929 2001
+Static statistical timing analysis for latch-based pipeline designs 1929 2004
+Design automation for analog: the next generation of tool challenges 1929 2006
+Faster, parametric trajectory-based macromodels via localized linear reductions 1929 2006
+Practical, fast Monte Carlo statistical static timing analysis: why and how 1929 2008
+Zen and the Art of Analog Design Automation 2195 1989
+Logic Simulation on Massively Parallel Architectures 2485 1989
+Inverse polarity techniques for high-speed/low-power multipliers 2516 1999
+Low-power technology mapping for mixed-swing logic 2516 2001
+Device-level early floorplanning algorithms for RF circuits 2544 1998
+Fast interval-valued statistical interconnect modeling and reduction 2544 2005
+Wire packing: a strong formulation of crosstalk-aware chip-level track/layer assignment with an efficient integer programming solution 2544 2000
+Layout tools for analog ICs and mixed-signal SoCs: a survey 2544 2000
+A comparative study of two Boolean formulations of FPGA detailed routing constraints 2544 2001
+Early research experience with OpenAccess gear: an open source development environment for physical design 2544 2005
+sub-SAT: a formulation for relaxed boolean satisfiability with applications in routing 2544 2002
+Mixed-size placement with fixed macrocells using grid-warping 2544 2007
+From Finance to Flip Flops: A Study of Fast Quasi-Monte Carlo Methods from Computational Finance Applied to Statistical Circuit Analysis 2550 2007
+Testability-oriented channel routing 3808 1995
+Satisfiability-Based Detailed FPGA Routing 3808 1999
+Recursive Statistical Blockade: An Enhanced Technique for Rare Event Simulation with Application to SRAM Circuit Design 3808 2008
+Designer-Driven Topology Optimization for Pipelined Analog to Digital Converters 4663 2007
+Time Domain Verification of Oscillator Circuit Properties 4721 2006
+A Comparative Study of Two Boolean Formulations of FPGA Detailed Routing Constraints 5067 2004
+Device-level early floorplanning algorithms for RF circuits 5068 1999
+A Scanline Data Structure Processor for VLSI Geometry Checking 5068 1987
+OASYS: a framework for analog circuit synthesis 5068 1989
+Wire packing - a strong formulation of crosstalk-aware chip-leveltrack/layer assignment with an efficient integer programming solution 5068 2001
+Massively parallel switch-level simulation: a feasibility study 5068 1991
+Placement by Simulated Annealing on a Multiprocessor 5068 1987
+Fast Interval-Valued Statistical Modeling of Interconnect and Effective Capacitance 5068 2006
+Integer programming based topology selection of cell-level analog circuits 5068 1995
+Efficient handling of operating range and manufacturing linevariations in analog cell synthesis 5068 2000
+Performance-driven simultaneous placement and routing for FPGA's 5068 1998
+Synthesis of high-performance analog circuits in ASTRX/OBLX 5068 1996
+A new FPGA detailed routing approach via search-based Booleansatisfiability 5068 2002
+Anaconda: simulation-based synthesis of analog circuits viastochastic pattern search 5068 2000
+Systolic routing hardware: performance evaluation and optimization 5068 1988
+A Class of Cellular Architectures to Support Physical Design Automation 5068 1984
+On the feasibility of synthesizing CAD software from specifications: generating maze router tools in ELF 5068 1991
+sub-SAT: a formulation for relaxed Boolean satisfiability with applications in routing 5068 2003
+Interval-Valued Reduced-Order Statistical Interconnect Modeling 5068 2007
+Probabilistic Interval-Valued Computation: Toward a Practical Surrogate for Statistics Inside CAD Tools 5068 2008
+Knowledge Representation and Reasoning in a Software Synthesis Architecture 5112 1992
+FPGA routing and routability estimation via Boolean satisfiability 5120 1998
+Reducing power by optimizing the necessary precision/range of floating-point arithmetic 5120 2000
+Oil fields, hedge funds, and drugs 914 2009
+Statistical Blockade: Very Fast Statistical Simulation and Modeling of Rare Circuit Events and Its Application to Memory Design 5068 2009
+Bayesian virtual probe: minimizing variation characterization cost for nanoscale IC technologies via Bayesian inference 914 2010
+Virtual probe: A statistically optimal framework for minimum-cost silicon characterization of nanoscale integrated circuits 1929 2009
+Analog layout synthesis: what's missing? 2544 2010

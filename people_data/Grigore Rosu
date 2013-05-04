@@ -1,0 +1,121 @@
+
+Formal JVM Code Analysis in JavaFAN 365 2004
+Dependent advice: a general approach to optimizing history-based aspects 395 2009
+Generating Optimal Linear Temporal Logic Monitors by Coinduction 447 2003
+Experiments with Test Case Generation and Runtime Analysis 451 2003
+User's gestural exploration of different virtual agents' expressive profiles 478 2008
+User's gestural exploration of different virtual agents' expressive profiles 478 2008
+User's gestural exploration of different virtual agents' expressive profiles 478 2008
+Composing Hidden Information Modules over Inclusive Institutions 565 2004
+Complete Categorical Deduction for Satisfaction as Injectivity 568 2006
+Rewriting Logic Semantics: From Language Specifications to Formal Analysis Tools 632 2004
+Behavioral Extensions of Institutions 662 2005
+CIRC : A Circular Coinductive Prover 662 2007
+Formal Analysis of Java Programs in JavaFAN 683 2004
+Allen Linear (Interval) Temporal Logic - Translation to LTL and Monitor Synthesis 683 2006
+Certifying Optimality of State Estimation Programs 683 2003
+Efficient Monitoring of omega-Languages 683 2005
+Parametric and Sliced Causality 683 2007
+Complete Categorical Equational Deduction 889 2001
+07011 Abstracts Collection -- Runtime Verification 1081 2007
+07011 Executive Summary -- Runtime Verification 1081 2007
+Static Analysis to Enforce Safe Value Flow in Embedded Control Systems 1295 2006
+Hiding More of Hidden Algebra 1618 1999
+Certifying and Synthesizing Membership Equational Proofs 1616 2003
+Formally Defining and Verifying Master/Slave Speculative Parallelization 1615 2005
+Detecting Errors in Multithreaded Programs by Generalized Predictive Analysis of Executions 1628 2005
+On Formal Analysis of OO Languages Using Rewriting Logic: Designing for Performance 1628 2007
+An Effective Algorithm for the Membership Problem for Extended Regular Expressions 1641 2007
+A Semantic Approach to Interpolation 1641 2006
+Hidden Congruent Deduction 1666 1998
+A Total Approach to Partial Algebraic Specification 1899 2002
+Extensional Theories and Rewriting 1899 2004
+A Formal Monitoring-Based Framework for Software Development and Analysis 1999 2004
+Equality of streams is a Pi0 over 2-complete problem 2000 2006
+Efficient Decentralized Monitoring of Safety in Distributed Systems 2126 2004
+jPredictor: a predictive runtime analysis tool for java 2126 2008
+An Instrumentation Technique for Online Analysis of Multithreaded Programs 2454 2004
+Decentralized runtime analysis of multithreaded applications 2454 2006
+A Tree Based Router Search Engine Architecture with Single Port Memories 2485 2005
+Distributed Cooperative Formal Methods Tools 2677 1997
+Circular Coinductive Rewriting 2677 2000
+Monitoring Programs Using Rewriting 2677 2001
+Certifying Domain-Specific Policies 2677 2001
+Certifying Measurement Unit Safety Polic 2677 2003
+Towards Certifying Domain-Specific Properties of Synthesized Code 2677 2002
+Efficient Monitoring of Parametric Context-Free Patterns 2677 2008
+Defining and Executing P Systems with Structured Data in K 2845 2008
+Mop: an efficient and generic runtime verification framework 3105 2007
+A rewriting approach to the design and evolution of object-oriented languages 3106 2007
+Rule-Based Analysis of Dimensional Safety 3350 2003
+Testing Extended Regular Language Membership Incrementally by Rewriting 3350 2003
+Computationally Equivalent Elimination of Conditions 3350 2006
+KOOL: An Application of Rewriting Logic to Language Prototyping and Analysis 3350 2007
+On implementing behavioral rewriting 3359 2002
+Parametric and Termination-Sensitive Control Dependence 3390 2006
+Runtime safety analysis of multithreaded programs 1486 2003
+Java-MOP: A Monitoring Oriented Programming Environment for Java 3666 2005
+Synthesizing Monitors for Safety Properties 3666 2002
+Online Efficient Predictive Safety Analysis of Multithreaded Programs 3666 2004
+Parametric Trace Slicing and Monitoring 3666 2009
+From Conditional to Unconditional Rewriting 3838 2004
+Conditional Circular Coinductive Rewriting with Case Analysis 3838 2002
+Synthesizing Monitors for Safety Properties: This Time with Calls and Returns 4284 2008
+Computational Logical Frameworks and Generic Program Analysis Technologies 4444 2005
+Rewriting-Based Techniques for Runtime Verification 4610 2005
+An instrumentation technique for online analysis of multithreaded programs 4658 2007
+The Institution of Order-Sorted Equational Logic 4708 1994
+Incompleteness of Behavioral Logics 4721 2000
+Towards Monitoring-Oriented Programming: A Paradigm Combining Specification and Implementation 4721 2003
+Checking and Correcting Behaviors of Java Programs at Runtime with Java-MOP 4721 2006
+Behavioral and Coinductive Rewriting 4721 2000
+A protocol for distributed cooperative work 4721 1999
+Preface 4721 2001
+Monitoring Java Programs with Java PathExplorer 4721 2001
+Preface 4721 2002
+Preface 4721 2005
+Towards Behavioral Maude: Behavioral Membership Equational Logic 4721 2002
+The Rewriting Logic Semantics Project 4721 2006
+Inductive Behavioral Proofs by Unhiding 4721 2003
+A Birkhoff-like Axiomatizability Result for Hidden Algebra and Coalgebra 4721 1998
+Generating Optimal Monitors for Extended Regular Expressions 4721 2003
+Monitoring Algorithms for Metric Temporal Logic Specifications 4721 2005
+Rewriting Logic Systems 4721 2007
+A Rewrite Framework for Language Definitions and for Generation of Efficient Interpreters 4721 2007
+A Rewriting Logic Approach to Operational Semantics (Extended Abstract) 4721 2007
+Regular Strategies as Proof Tactics for CIRC 4721 2008
+Institution Morphisms 4732 2002
+Foreword - Selected Papers from the First International Workshop on Runtime Verification held in Paris, July 2001 (RV'01) 4735 2004
+An Overview of the Runtime Verification Tool Java PathExplorer 4735 2004
+Foreword 4735 2005
+A rewriting logic approach to operational semantics 4755 2009
+Weak Inclusion Systems: Part Two 4934 2000
+Kan Extensions of Institutions 4934 1999
+On Equational Craig Interpolation 4934 2000
+An Equational Specification for the Scheme Language 4934 2005
+Editorial 4944 2007
+Weak Inclusion Systems 4965 1997
+Axiomatizability in Inclusive Equational Logics 4965 2002
+Efficient monitoring of safety properties 5058 2004
+Online efficient predictive safety analysis of multithreaded programs 5058 2006
+Combining test case generation and runtime verification 5071 2005
+Interpreting Abstract Interpretations in Membership Equational Logic 4721 2001
+Equational axiomatizability for coalgebra 5071 2001
+Behavioral abstraction is hiding information 5071 2004
+The rewriting logic semantics project 5071 2007
+A semantic approach to interpolation 5071 2009
+Preface 4721 2009
+CIRC: A Behavioral Verification Tool Based on Circular Coinduction 662 2009
+Circular Coinduction: A Proof Theoretical Foundation 662 2009
+Circular Coinduction with Special Contexts 1999 2009
+Towards a Module System for K 3838 2008
+Term-Generic Logic 3838 2008
+A Rewriting Logic Approach to Type Inference 3838 2008
+Runtime Verification of C Memory Safety 4284 2009
+Hardware Runtime Monitoring for Dependable COTS-Based Real-Time Embedded Systems 3358 2008
+Efficient Formalism-Independent Monitoring of Parametric Properties 2677 2009
+Algebraic Methodology and Software Technology, 12th International Conference, AMAST 2008, Urbana, IL, USA, July 28-31, 2008, Proceedings 365 2008
+Runtime Verification, 02.01. - 06.01.2007 1081 2008
+Formal Approaches to Software Testing and Runtime Verification, First Combined International Workshops, FATES 2006 and RV 2006, Seattle, WA, USA, August 15-16, 2006, Revised Selected Papers 1584 2006
+A Rewriting Logic Semantics Approach to Modular Program Analysis 3350 2010
+Efficient monitoring of parametric context-free patterns 4610 2010
