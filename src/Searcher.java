@@ -7,8 +7,7 @@ import org.apache.solr.client.solrj.SolrServerException;
 
 
 /**
- * This is another receiver class that executes the appropriate steps
- * according to the command fired.
+ * This is the receiver class that runs term and concept search
  *
  * @author chethans
  */

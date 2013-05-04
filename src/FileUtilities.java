@@ -104,7 +104,6 @@ public class FileUtilities
 			//reset token number
 			tokenNumber = 0;
 		}
-
 		br.close();
 		return fieldValues;
 	} 

@@ -2,7 +2,10 @@ import java.io.IOException;
 
 import org.apache.solr.client.solrj.SolrServerException;
 
-
+/**
+ * index concept command
+ * @author chethans
+ */
 public class IndexConceptsCommand implements Command
 {
 	private Indexer indexer;

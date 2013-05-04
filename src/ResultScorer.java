@@ -40,6 +40,7 @@ public class ResultScorer
 		for(int i=0;i < mapSize;i++)
 		{			
 			double current_weight = 1 + (mapSize - i - 1)*factor;
+			// Indicates if there is term relevancy map to boost
 			if(boostTermRelevancyMap == true)
 			{
 				current_weight = 100;
@@ -49,6 +50,7 @@ public class ResultScorer
 			totalWeight += current_weight;
 			topDocumentsMap = relevancyMapList.get(i);
 
+			// Compute the weighted average mean with linear decreasing weights
 			for(int j=0;j < topDocumentsMap.size();j++)
 			{
 				Iterator<String> iterator = topDocumentsMap.keySet().iterator();    

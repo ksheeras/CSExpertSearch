@@ -218,6 +218,7 @@ public class CSExpertSearch
 				}
 			}
 
+			// Set current operation
 			csExpertSearcher.setFunctionType(functionType);
 			csExpertSearcher.setSearchString(queryString);
 
